@@ -1,0 +1,581 @@
+﻿ID;License plate;Vehicle;Start Address;Start Time;End Address;End Time;Distance (km);Duration;Prediscount Price;Price (EUR)
+11253208;MFL843;VW T-Cross;Geležinkelio g. ,Vilnius, 01047, Lietuva;2023-01-21 15:45:16;Mada, Laisvės pr. 43D,Vilnius, 05112, Lietuva;2023-01-21 16:07:55;10;23 minutes;6.91;6.91
+11251222;553DLT;VW T-Cross;Žemynos g. 12,Vilnius, 06129, Lietuva;2023-01-21 05:13:47;Geležinkelio g. 16,Vilnius, 01047, Lietuva;2023-01-21 05:28:11;9;15 minutes;5.3;5.30
+11250581;553DLT;VW T-Cross;Mada, Laisvės pr. 43D,Vilnius, 05112, Lietuva;2023-01-20 21:59:51;Žemynos g. 14,Vilnius, 06128, Lietuva;2023-01-20 22:05:36;3;6 minutes;2.29;2.29
+11222585;LSU804;Toyota Yaris;Verkių g. 44,Vilnius, 09109, Lietuva;2023-01-14 15:20:58;A. Vivulskio g. 20,Vilnius, 03115, Lietuva;2023-01-14 15:36:15;5;16 minutes;4.05;4.05
+11221792;336CPS;Ford Focus;Žemynos g. 1,Vilnius, 06126, Lietuva;2023-01-14 12:43:34;Kalvarijų g. 143,Vilnius, 08221, Lietuva;2023-01-14 13:06:21;10;23 minutes;7.37;7.37
+11204267;LZY810;Toyota Yaris;Tujų g. 5,Vilnius, 05115, Lietuva;2023-01-10 15:45:09;Žemynos g. 14,Vilnius, 06128, Lietuva;2023-01-10 15:57:37;3;13 minutes;3.14;3.14
+11202980;LZY810;Toyota Yaris;Laisvės pr. 125,Vilnius, 06118, Lietuva;2023-01-10 10:32:11;Tujų g. 5,Vilnius, 05115, Lietuva;2023-01-10 10:48:29;5;17 minutes;4.2;0.20
+11193711;MJG459;Toyota Yaris Cross;A. Strazdelio g. 4,Vilnius, 02102, Lietuva;2023-01-07 22:52:24;Viršuliškių g. 75,Vilnius, 05112, Lietuva;2023-01-07 23:20:08;9;28 minutes;7.51;7.51
+11193127;MJG459;Toyota Yaris Cross;Savanorių pr. 180,Vilnius, 02301, Lietuva;2023-01-07 19:39:55;A. Strazdelio g. 4,Vilnius, 02102, Lietuva;2023-01-07 19:55:15;7;16 minutes;4.97;4.97
+11192151;MJG459;Toyota Yaris Cross;Laisvės pr. 85,Vilnius, 06123, Lietuva;2023-01-07 16:40:39;Savanorių pr. 180,Vilnius, 02301, Lietuva;2023-01-07 17:06:10;13;26 minutes;8.17;6.74
+11189514;MYD604;Toyota Corolla;Rūdninkų g. 8,Vilnius, 01135, Lietuva;2023-01-07 02:22:47;Naugarduko g. 41,Vilnius, 03227, Lietuva;2023-01-07 02:28:07;1;6 minutes;2.29;2.29
+11161236;LZY816;Toyota Yaris;Č. Sugiharos g. 9,Vilnius, 05115, Lietuva;2022-12-31 17:52:33;Žemynos g. 14,Vilnius, 06128, Lietuva;2022-12-31 18:47:28;4;55 minutes;6.41;6.41
+11097163;MHE972;Toyota Corolla;Rotušės a. ,Vilnius, 01128, Lietuva;2022-12-17 02:11:01;Žemynos g. 12,Vilnius, 06129, Lietuva;2022-12-17 02:37:27;9;27 minutes;8.33;8.33
+11093029;MIY955;Nissan Juke;Laisvės pr. 125A,Vilnius, 06117, Lietuva;2022-12-16 14:36:48;L. Stuokos-Gucevičiaus g. 13,Vilnius, 01122, Lietuva;2022-12-16 15:17:36;10;41 minutes;9.97;9.97
+11089599;LUI532;VW T-Cross;Visų Šventųjų g. 7,Vilnius, 01306, Lietuva;2022-12-15 20:19:09;Žemynos g. 14,Vilnius, 06128, Lietuva;2022-12-15 21:38:26;21;1 hour 20 minutes;17.13;17.13
+11053063;LTS846;VW T-Cross;Žvalgų g. ,Vilnius, 08338, Lietuva;2022-12-08 15:21:43;Žvalgų g. ,Vilnius, 08338, Lietuva;2022-12-08 15:21:53;0;1 minute;2.29;2.29
+11052983;LTS846;VW T-Cross;Pašilaičių g. 1A,Vilnius, 06114, Lietuva;2022-12-08 15:09:44;Kalvarijų g. ,Vilnius, 08313, Lietuva;2022-12-08 15:20:49;5;12 minutes;3.79;3.79
+11010241;923DLT;VW T-Cross;Žirmūnų g. 106E,Vilnius, 09127, Lietuva;2022-11-29 14:48:10;Žemynos g. 12,Vilnius, 06129, Lietuva;2022-11-29 15:06:29;7;19 minutes;5.22;5.22
+11009741;MYY929;Toyota Corolla;Laisvės pr. 125A,Vilnius, 06118, Lietuva;2022-11-29 12:55:10;Žirmūnų g. 106E,Vilnius, 09127, Lietuva;2022-11-29 13:06:09;6;11 minutes;3.59;3.59
+11008529;MJG472;Toyota Yaris Cross;Sodų g. 22,Vilnius, 03211, Lietuva;2022-11-29 08:33:44;Žemynos g. 14,Vilnius, 06128, Lietuva;2022-11-29 08:57:56;12;25 minutes;8.38;8.38
+10971408;MHR129;VW T-Roc;Žygio g. 46,Vilnius, 08228, Lietuva;2022-11-21 08:16:09;Žemynos g. 14,Vilnius, 06128, Lietuva;2022-11-21 08:38:14;7;23 minutes;7.45;7.45
+10961946;LUN146;VW T-Cross;Unnamed Road,Vilnius, 06125, Lietuva;2022-11-18 21:40:36;Aguonų g. 14,Vilnius, 03213, Lietuva;2022-11-18 22:00:04;9;20 minutes;6.85;6.85
+10888622;LZD832;Skoda Fabia;Vikingų g. ,Vilnius, 02188, Lietuva;2022-11-03 11:03:21;Žemynos g. 12,Vilnius, 06129, Lietuva;2022-11-03 11:34:57;14;32 minutes;9.74;5.74
+10698489;MFI521;Citroen C3;Žemynos g. ,Vilnius, 06128, Lietuva;2022-09-23 11:38:44;Vikingų g. ,Vilnius, 02188, Lietuva;2022-09-23 12:02:04;13;24 minutes;9.48;9.48
+10695306;LZY810;Toyota Yaris;Ukmergės g. 244,Vilnius, 07160, Lietuva;2022-09-22 18:01:58;Žemynos g. 14,Vilnius, 06128, Lietuva;2022-09-22 18:35:19;5;34 minutes;6.7;5.64
+10678954;MGF597;Renault Master;Šilutės pl. 83A,Klaipėda, 95116, Lietuva;2022-09-19 16:33:52;Ukmergės g. 282,Vilnius, 06115, Lietuva;2022-09-19 21:47:03;338;5 hours 14 minutes;62.94;60.00
+10423587;MFL823;VW T-Cross;Fabijoniškių g. 99,Vilnius, 07101, Lietuva;2022-07-29 21:50:46;Žemaitės g. 11,Vilnius, 03118, Lietuva;2022-07-29 22:09:23;10;19 minutes;6.32;6.32
+10423125;MGC915;VW T-Cross;PLC „Akropolis“, Ozo g. 25,Vilnius, 01402, Lietuva;2022-07-29 20:13:43;Žemynos g. 14,Vilnius, 06128, Lietuva;2022-07-29 20:22:28;5;9 minutes;3.32;2.54
+10422266;504DLT;VW Golf;Tilto g. 25,Vilnius, 01101, Lietuva;2022-07-29 18:20:02;PLC „Akropolis“, Ozo g. 25,Vilnius, 01402, Lietuva;2022-07-29 18:36:54;6;17 minutes;5.51;2.29
+10352517;LZY810;Toyota Yaris;Polocko g. 54B,Vilnius, 01212, Lietuva;2022-07-15 20:12:01;A. Smetonos g. 6,Vilnius, 01115, Lietuva;2022-07-15 20:36:51;12;25 minutes;6.89;6.89
+10330662;MGZ499;Toyota Yaris;Tujų g. 11,Vilnius, 05116, Lietuva;2022-07-12 05:32:23;Sodų g. 21,Vilnius, 03211, Lietuva;2022-07-12 05:45:03;8;13 minutes;4.21;4.21
+10330115;MGZ499;Toyota Yaris;Maironio g. ,Vilnius, 01124, Lietuva;2022-07-11 21:41:34;Tujų g. 11,Vilnius, 05116, Lietuva;2022-07-11 23:44:05;21;2 hours 3 minutes;18.35;18.35
+10329530;MHE863;Toyota Corolla;Žemynos g. 14,Vilnius, 06128, Lietuva;2022-07-11 19:31:16;Barboros Radvilaitės g. 5A,Vilnius, 01403, Lietuva;2022-07-11 20:07:54;10;37 minutes;9.19;9.19
+10328391;LZD829;Skoda Fabia;J. Jasinskio g. 11,Vilnius, 01112, Lietuva;2022-07-11 16:31:59;Žemynos g. 14,Vilnius, 06128, Lietuva;2022-07-11 16:45:06;7;14 minutes;4.14;4.14
+10321109;LZC921;VW Golf;Danės g. ,Klaipėda, 92120, Lietuva;2022-07-09 21:24:38;Puodžių g. 4,Klaipėda, 92127, Lietuva;2022-07-09 21:30:08;1;6 minutes;2;2.00
+10319446;MAC217;VW T-Cross;PC „Banginis“, Šilutės pl. 35,Klaipėda, 94105, Lietuva;2022-07-09 15:45:38;Puodžių g. 4,Klaipėda, 92127, Lietuva;2022-07-09 16:28:35;6;43 minutes;9.53;9.53
+10318277;LZD804;Skoda Fabia;Onos Šimaitės g. ,Vilnius, 01301, Lietuva;2022-07-09 11:44:04;Saltoniškių g. 12,Vilnius, 08105, Lietuva;2022-07-09 13:25:59;19;1 hour 42 minutes;17.37;17.37
+10316950;LZF475;Skoda Fabia;Žemynos g. 18,Vilnius, 06128, Lietuva;2022-07-08 22:54:03;Liejyklos g. 1,Vilnius, 01119, Lietuva;2022-07-08 23:09:03;7;15 minutes;4.29;4.29
+10286517;842DLT;VW T-Cross;Šiaurės pr. 83,Kaunas, 49245, Lietuva;2022-07-02 20:15:13;Šiaurės pr. 91,Kaunas, 49218, Lietuva;2022-07-02 20:44:37;13;30 minutes;9.02;9.02
+10075266;LTP408;Toyota C-HR;Naugarduko g. 60,Vilnius, 03203, Lietuva;2022-05-27 11:00:19;Ukmergės g. 244,Vilnius, 07160, Lietuva;2022-05-27 11:13:45;8;14 minutes;5.08;5.08
+10075052;LTO103;Toyota C-HR;Žemynos g. 2B,Vilnius, 06128, Lietuva;2022-05-27 10:24:35;Naugarduko g. 41,Vilnius, 03227, Lietuva;2022-05-27 10:43:24;8;19 minutes;6.03;2.03
+10053056;LZC507;Toyota Corolla;Ukmergės g. 282,Vilnius, 06115, Lietuva;2022-05-23 15:57:08;Žemynos g. 12,Vilnius, 06129, Lietuva;2022-05-23 16:00:38;1;4 minutes;1.5;1.50
+10052698;LZC507;Toyota Corolla;Vytauto Žalakevičiaus g. ,Vilnius, 10111, Lietuva;2022-05-23 15:02:16;Ukmergės g. 282,Vilnius, 06115, Lietuva;2022-05-23 15:29:32;9;28 minutes;7.42;3.42
+10052312;LZC503;Toyota Corolla;Žemynos g. 12,Vilnius, 06129, Lietuva;2022-05-23 13:50:49;Antakalnio g. 61,Vilnius, 10207, Lietuva;2022-05-23 14:08:56;10;19 minutes;6.13;6.13
+10052150;LZC503;Toyota Corolla;Sodų g. 18,Vilnius, 03211, Lietuva;2022-05-23 13:07:59;Žemynos g. 12,Vilnius, 06129, Lietuva;2022-05-23 13:26:45;12;19 minutes;6.61;6.61
+9998843;355DLT;VW Golf;Žemynos g. 12,Vilnius, 06129, Lietuva;2022-05-14 11:17:32;Sodų g. 18,Vilnius, 03211, Lietuva;2022-05-14 11:35:25;10;18 minutes;6.68;6.68
+9997219;462MXL;VW Golf;Žemynos g. 18,Vilnius, 06128, Lietuva;2022-05-13 23:45:26;Geležinkelio g. ,Vilnius, 01047, Lietuva;2022-05-14 00:06:47;10;22 minutes;7.52;7.52
+9994630;LTN044;VW T-Cross;Olimpiečių g. 1,Vilnius, 09235, Lietuva;2022-05-13 17:25:50;Žemynos g. 12,Vilnius, 06129, Lietuva;2022-05-13 17:41:23;8;16 minutes;5.3;3.75
+9871866;LUV905;VW T-Roc;Skapiškio g. ,Vilnius, 02305, Lietuva;2022-04-22 20:55:29;Laisvės pr. 127,Vilnius, 06118, Lietuva;2022-04-22 21:11:05;13;16 minutes;0;0.00
+9871314;LIR851;Fiat Ducato;Savanorių pr. 159,Vilnius, 03156, Lietuva;2022-04-22 19:29:54;Trumpoji g. ,Alesninkai, 21370, Lietuva;2022-04-22 19:57:30;35;28 minutes;0;0.00
+9681252;LUI523;VW T-Cross;Gariūnų g. ,Vilnius, 02300, Lietuva;2022-03-20 11:02:37;Žemynos g. 14,Vilnius, 06128, Lietuva;2022-03-20 11:18:24;13;16 minutes;0;0.00
+9681136;LZD804;Skoda Fabia;Justiniškių g. 14,Vilnius, 05131, Lietuva;2022-03-20 10:27:15;Jočionių g. 14,Vilnius, 02300, Lietuva;2022-03-20 10:47:48;8;21 minutes;0;0.00
+9680647;LMR625;VW Golf;Eigulių g. ,Vilnius, 03131, Lietuva;2022-03-20 06:30:18;Mokslininkų g. 12A,Vilnius, 08459, Lietuva;2022-03-20 10:12:18;121;3 hours 42 minutes;0;0.00
+9680646;EV8528;VW E-Crafter;Eigulių g. ,Vilnius, 03131, Lietuva;2022-03-20 06:28:57;Eigulių g. ,Vilnius, 03131, Lietuva;2022-03-20 06:30:07;0;2 minutes;0;0.00
+9680643;LMR625;VW Golf;Laisvės pr. ,Vilnius, 05112, Lietuva;2022-03-20 06:20:37;Eigulių g. ,Vilnius, 03131, Lietuva;2022-03-20 06:28:37;7;8 minutes;0;0.00
+9680642;EV6718;VW E-Crafter;Laisvės pr. ,Vilnius, 05112, Lietuva;2022-03-20 06:18:54;Laisvės pr. ,Vilnius, 05112, Lietuva;2022-03-20 06:20:29;0;2 minutes;0;0.00
+9680625;LMR625;VW Golf;Pašilaičių g. 13,Vilnius, 06113, Lietuva;2022-03-20 06:01:37;Laisvės pr. ,Vilnius, 05112, Lietuva;2022-03-20 06:18:47;3;18 minutes;0;0.00
+9674574;LUI687;VW Golf;Laisvės pr. 125A,Vilnius, 06118, Lietuva;2022-03-19 05:08:42;Žemynos g. 12,Vilnius, 06129, Lietuva;2022-03-19 09:44:04;151;4 hours 36 minutes;0;0.00
+9642935;MAC214;VW T-Cross;Žemynos g. 14,Vilnius, 06128, Lietuva;2022-03-14 05:29:50;Geležinio Vilko g. 6A,Vilnius, 03507, Lietuva;2022-03-14 05:41:37;9;12 minutes;0;0.00
+9642930;MAC214;VW T-Cross;Žemynos g. 14,Vilnius, 06128, Lietuva;2022-03-14 05:19:36;Žemynos g. 14,Vilnius, 06128, Lietuva;2022-03-14 05:23:36;0;4 minutes;0;0.00
+9642928;MAC214;VW T-Cross;Žemynos g. 14,Vilnius, 06128, Lietuva;2022-03-14 05:17:50;Žemynos g. 14,Vilnius, 06128, Lietuva;2022-03-14 05:18:55;0;2 minutes;0;0.00
+9642922;MAC214;VW T-Cross;Žemynos g. 14,Vilnius, 06128, Lietuva;2022-03-14 05:17:11;Žemynos g. 14,Vilnius, 06128, Lietuva;2022-03-14 05:17:20;0;1 minute;0;0.00
+9288720;590DLT;VW Golf;Žemynos g. 14,Vilnius, 06128, Lietuva;2022-01-12 05:54:42;Žemynos g. 14,Vilnius, 06128, Lietuva;2022-01-12 07:16:58;0;1 hour 23 minutes;0;0.00
+9282967;MBV165;VW Golf;Taikos g. 57,Vilnius, 05248, Lietuva;2022-01-11 07:40:27;V. A. Graičiūno g. 8,Vilnius, 02241, Lietuva;2022-01-11 08:15:11;16;35 minutes;0;0.00
+9276965;MAP233;VW Golf;Žemynos g. 14,Vilnius, 06128, Lietuva;2022-01-10 05:20:32;Fermentų g. ,Vilnius, 02244, Lietuva;2022-01-10 07:47:57;103;2 hours 28 minutes;0;0.00
+9265129;MAP229;VW Golf;P. Žadeikos g. 6,Vilnius, 06319, Lietuva;2022-01-07 20:38:55;Žemynos g. 12,Vilnius, 06129, Lietuva;2022-01-08 00:20:13;128;3 hours 42 minutes;0;0.00
+9259128;LSI154;VW T-Cross;Geležinio Vilko g. 6A,Vilnius, 03507, Lietuva;2022-01-07 05:49:49;Fermentų g. ,Vilnius, 02244, Lietuva;2022-01-07 07:31:56;69;1 hour 43 minutes;0;0.00
+9259059;LUI317;VW T-Roc;Laisvės pr. 115A,Vilnius, 06128, Lietuva;2022-01-07 05:07:23;Geležinio Vilko g. 6A,Vilnius, 03507, Lietuva;2022-01-07 05:48:50;8;42 minutes;0;0.00
+9252657;MAM183;VW Golf;Pašilaičių g. 3A,Vilnius, 06114, Lietuva;2022-01-06 05:20:02;Fermentų g. ,Vilnius, 02244, Lietuva;2022-01-06 07:47:08;111;2 hours 28 minutes;0;0.00
+9233479;LUV747;VW T-Roc;Žemynos g. 14,Vilnius, 06128, Lietuva;2022-01-03 07:13:48;Fermentų g. ,Vilnius, 02244, Lietuva;2022-01-03 07:36:12;16;23 minutes;0;0.00
+9233247;LUV747;VW T-Roc;Žemynos g. 14,Vilnius, 06128, Lietuva;2022-01-03 06:16:07;Žemynos g. 14,Vilnius, 06128, Lietuva;2022-01-03 07:13:30;0;58 minutes;0;0.00
+9209493;145FPB;VW T-Roc;Medeinos g. 13,Vilnius, 06139, Lietuva;2021-12-30 04:55:59;Vyšnių g. 7,Vilnius, 02173, Lietuva;2021-12-30 05:43:47;41;48 minutes;0;0.00
+9203450;629DLT;VW Golf;Pašilaičių g. 12,Vilnius, 06113, Lietuva;2021-12-29 05:16:18;Žemynos g. 12,Vilnius, 06129, Lietuva;2021-12-29 08:14:30;116;2 hours 59 minutes;0;0.00
+9197529;LUK824;VW T-Roc;Lesto AB, Motorų g. 2,Vilnius, 02184, Lietuva;2021-12-28 07:24:46;Fermentų g. ,Vilnius, 02244, Lietuva;2021-12-28 07:54:38;16;30 minutes;0;0.00
+9197386;LUK824;VW T-Roc;Panerių g. 37,Vilnius, 03209, Lietuva;2021-12-28 06:35:03;Lesto AB, Motorų g. 2,Vilnius, 02184, Lietuva;2021-12-28 07:24:25;37;50 minutes;0;0.00
+9197281;LUV772;VW T-Cross;Pašilaičių g. 2,Vilnius, 06115, Lietuva;2021-12-28 05:10:19;Panerių g. 37,Vilnius, 03209, Lietuva;2021-12-28 06:34:20;13;1 hour 24 minutes;0;0.00
+9191752;LUV716;VW T-Roc;Vikingų g. ,Vilnius, 02188, Lietuva;2021-12-27 05:52:33;Kaminkelio g. 20,Vilnius, 02192, Lietuva;2021-12-27 05:59:49;4;8 minutes;0;0.00
+9191714;LUI479;VW T-Cross;Žemynos g. 14,Vilnius, 06128, Lietuva;2021-12-27 04:59:16;Geležinio Vilko g. 6A,Vilnius, 03507, Lietuva;2021-12-27 05:31:26;9;33 minutes;0;0.00
+9182063;LZU456;VW Golf;Geležinio Vilko g. 6A,Vilnius, 03507, Lietuva;2021-12-24 07:04:21;Žemynos g. 14,Vilnius, 06128, Lietuva;2021-12-24 07:34:46;13;31 minutes;0;0.00
+9181963;LTO025;Peugeot 208;Pašilaičių g. 13,Vilnius, 06113, Lietuva;2021-12-24 05:24:19;Pašilaičių g. 13,Vilnius, 06113, Lietuva;2021-12-24 05:25:57;0;2 minutes;0;0.00
+9175617;LUK866;VW T-Cross;Unnamed Road,Vilnius, 02188, Lietuva;2021-12-23 07:26:21;Fermentų g. ,Vilnius, 02244, Lietuva;2021-12-23 07:47:52;13;22 minutes;0;0.00
+9175296;LMR546;VW Golf;Pašilaičių g. 6,Vilnius, 06116, Lietuva;2021-12-23 05:27:35;Kapsų g. 22,Vilnius, 02166, Lietuva;2021-12-23 05:55:01;14;28 minutes;0;0.00
+9175279;MAO106;VW Golf;Unnamed Road,Vilnius, 06128, Lietuva;2021-12-23 05:18:18;Unnamed Road,Vilnius, 06128, Lietuva;2021-12-23 05:24:34;0;7 minutes;0;0.00
+9090733;MAD658;VW T-Roc;Kalniečių g. 96,Kaunas, 50184, Lietuva;2021-12-10 18:43:54;Žemynos g. 14,Vilnius, 06128, Lietuva;2021-12-10 20:25:55;103;1 hour 43 minutes;0;0.00
+9089145;LZC959;VW T-Cross;Laisvės pr. 82,Vilnius, 06125, Lietuva;2021-12-10 16:32:12;Kalniečių g. 125,Kaunas, 50180, Lietuva;2021-12-10 18:43:41;113;2 hours 12 minutes;0;0.00
+8882084;481DLT;VW Golf;Pašilaičių g. 1A,Vilnius, 06114, Lietuva;2021-11-08 12:23:38;Žemynos g. 14,Vilnius, 06128, Lietuva;2021-11-08 12:27:20;1;4 minutes;0;0.00
+8881740;MAC218;VW T-Cross;Lesto AB, Motorų g. 2,Vilnius, 02184, Lietuva;2021-11-08 11:25:19;Laisvės pr. 127,Vilnius, 06118, Lietuva;2021-11-08 12:23:15;16;58 minutes;0;0.00
+8881621;LSI156;VW Golf;Vikingų g. ,Vilnius, 02188, Lietuva;2021-11-08 11:03:30;Dzūkų g. 1,Vilnius, 02161, Lietuva;2021-11-08 11:11:39;4;9 minutes;0;0.00
+8881249;566DLT;VW Golf;Vikingų g. ,Vilnius, 02188, Lietuva;2021-11-08 09:56:36;Dzūkų g. 22,Vilnius, 02164, Lietuva;2021-11-08 10:02:39;4;7 minutes;0;0.00
+8881202;LMZ691;VW Golf;Vikingų g. ,Vilnius, 02188, Lietuva;2021-11-08 09:46:44;Kapsų g. 15M,Vilnius, 02168, Lietuva;2021-11-08 09:52:44;4;6 minutes;0;0.00
+8880138;493DLT;VW Golf;Vikingų g. ,Vilnius, 02188, Lietuva;2021-11-08 06:44:55;Nordika, Vikingų g. 3,Vilnius, 02182, Lietuva;2021-11-08 06:48:33;2;4 minutes;0;0.00
+8880054;LMR587;VW Golf;Vikingų g. ,Vilnius, 02188, Lietuva;2021-11-08 06:11:38;Prūsų g. 24,Vilnius, 02154, Lietuva;2021-11-08 06:17:43;4;7 minutes;0;0.00
+8880008;LZF021;Skoda Fabia;Laisvės pr. 91,Vilnius, 06124, Lietuva;2021-11-08 05:43:39;Dariaus ir Girėno g. 13,Vilnius, 02181, Lietuva;2021-11-08 06:08:56;15;26 minutes;0;0.00
+8879977;LZF021;Skoda Fabia;Laisvės pr. 91,Vilnius, 06124, Lietuva;2021-11-08 05:36:20;Laisvės pr. 91,Vilnius, 06124, Lietuva;2021-11-08 05:38:39;0;3 minutes;0;0.00
+8868999;MBM527;VW Golf;Gabijos g. 51,Vilnius, 06101, Lietuva;2021-11-05 22:30:58;Žemynos g. 14,Vilnius, 06128, Lietuva;2021-11-05 22:35:12;2;5 minutes;0;0.00
+8868996;LSY638;Toyota Corolla;Gabijos g. 51,Vilnius, 06101, Lietuva;2021-11-05 22:30:23;Gabijos g. 51,Vilnius, 06101, Lietuva;2021-11-05 22:30:26;0;1 minute;0;0.00
+8868992;MBM527;VW Golf;Gabijos g. 51,Vilnius, 06101, Lietuva;2021-11-05 22:29:57;Gabijos g. 51,Vilnius, 06101, Lietuva;2021-11-05 22:30:14;0;1 minute;0;0.00
+8868976;LSY638;Toyota Corolla;Gabijos g. 51,Vilnius, 06101, Lietuva;2021-11-05 22:26:24;Gabijos g. 51,Vilnius, 06101, Lietuva;2021-11-05 22:29:44;0;4 minutes;0;0.00
+8868912;MBM527;VW Golf;P. Lukšio g. 34,Vilnius, 09023, Lietuva;2021-11-05 22:08:14;Gabijos g. 51,Vilnius, 06101, Lietuva;2021-11-05 22:26:16;10;19 minutes;0;0.00
+8868782;EV8236;Peugeot e-2008;Linkmenų g. 25C,Vilnius, 08217, Lietuva;2021-11-05 21:34:39;P. Lukšio g. ,Vilnius, 09101, Lietuva;2021-11-05 22:04:57;5;31 minutes;0;0.00
+8868723;LUI411;VW T-Cross;Aguonų g. 6,Vilnius, 03213, Lietuva;2021-11-05 21:20:55;Aguonų g. 6,Vilnius, 03213, Lietuva;2021-11-05 21:21:26;0;1 minute;0;0.00
+8865276;LZD792;Skoda Fabia;Vikingų g. 1,Vilnius, 02182, Lietuva;2021-11-05 14:17:38;Šaltkalvių g. 72,Vilnius, 02174, Lietuva;2021-11-05 14:31:36;2;14 minutes;0;0.00
+8865200;LMR627;VW Golf;Nordika, Vikingų g. 3,Vilnius, 02182, Lietuva;2021-11-05 14:06:31;Žirnių g. ,Vilnius, 02182, Lietuva;2021-11-05 14:12:48;0;7 minutes;0;0.00
+8865110;577DLT;VW Golf;Nordika, Vikingų g. 3,Vilnius, 02182, Lietuva;2021-11-05 13:55:24;Šaltkalvių g. 2,Vilnius, 02170, Lietuva;2021-11-05 14:02:04;2;7 minutes;0;0.00
+8865089;LZC922;VW Golf;Dzūkų g. 1,Vilnius, 02161, Lietuva;2021-11-05 13:48:41;Dzūkų g. 1,Vilnius, 02161, Lietuva;2021-11-05 13:48:51;0;1 minute;0;0.00
+8865040;LZF041;Skoda Fabia;Vikingų g. 1,Vilnius, 02182, Lietuva;2021-11-05 13:41:45;Dzūkų g. 1,Vilnius, 02161, Lietuva;2021-11-05 13:48:31;3;7 minutes;0;0.00
+8864465;MAD695;VW T-Roc;Vytauto Žalakevičiaus g. 17,Vilnius, 10111, Lietuva;2021-11-05 12:12:41;Laisvės pr. 127,Vilnius, 06118, Lietuva;2021-11-05 12:31:26;9;19 minutes;0;0.00
+8864352;LUI511;VW T-Cross;Vytauto Žalakevičiaus g. 6,Vilnius, 10111, Lietuva;2021-11-05 11:54:23;Vytauto Žalakevičiaus g. 6,Vilnius, 10111, Lietuva;2021-11-05 12:12:29;0;19 minutes;0;0.00
+8864347;LUI511;VW T-Cross;Vytauto Žalakevičiaus g. 6,Vilnius, 10111, Lietuva;2021-11-05 11:53:45;Vytauto Žalakevičiaus g. 6,Vilnius, 10111, Lietuva;2021-11-05 11:54:09;0;1 minute;0;0.00
+8864073;MAO096;VW Golf;Unnamed Road,Vilnius, 02188, Lietuva;2021-11-05 11:13:33;Valakupių g. 5,Vilnius, 10111, Lietuva;2021-11-05 11:42:59;18;30 minutes;0;0.00
+8863900;LSU159;Toyota Yaris;Unnamed Road,Vilnius, 02188, Lietuva;2021-11-05 10:42:53;Algirdo g. 73,Vilnius, 03209, Lietuva;2021-11-05 10:48:54;2;6 minutes;0;0.00
+8863828;LMZ684;VW Golf;Unnamed Road,Vilnius, 02188, Lietuva;2021-11-05 10:29:39;Mindaugo g. 44,Vilnius, 01311, Lietuva;2021-11-05 10:39:22;3;10 minutes;0;0.00
+8863750;LMZ553;VW Golf;Unnamed Road,Vilnius, 02188, Lietuva;2021-11-05 10:12:48;Mindaugo g. 36,Vilnius, 01311, Lietuva;2021-11-05 10:22:12;3;10 minutes;0;0.00
+8862489;LZC922;VW Golf;Žemynos g. ,Vilnius, 06128, Lietuva;2021-11-05 06:04:36;Dzūkų g. 1,Vilnius, 02161, Lietuva;2021-11-05 09:55:15;127;3 hours 51 minutes;0;0.00
+8856462;LZD821;Skoda Fabia;Unnamed Road,Vilnius, 02188, Lietuva;2021-11-04 07:48:09;Pelesos g. 3,Vilnius, 02114, Lietuva;2021-11-04 07:54:23;2;7 minutes;0;0.00
+8856410;MBV143;VW Golf;Unnamed Road,Vilnius, 02188, Lietuva;2021-11-04 07:37:05;Dzūkų g. 22,Vilnius, 02164, Lietuva;2021-11-04 07:41:55;2;5 minutes;0;0.00
+8856081;493DLT;VW Golf;Žemynos g. 10,Vilnius, 06129, Lietuva;2021-11-04 05:33:59;Geležinio Vilko g. 6A,Vilnius, 03507, Lietuva;2021-11-04 06:08:10;8;35 minutes;0;0.00
+8849160;MBV178;VW Golf;Dzūkų g. 38,Vilnius, 02116, Lietuva;2021-11-02 21:05:39;Žemynos g. 14,Vilnius, 06128, Lietuva;2021-11-02 21:21:51;12;17 minutes;0;0.00
+8847845;LZD803;Skoda Fabia;Ukmergės g. 282,Vilnius, 06115, Lietuva;2021-11-02 16:44:49;Unnamed Road,Vilnius, 07115, Lietuva;2021-11-02 17:34:48;8;50 minutes;0;0.00
+8844819;LMR627;VW Golf;Žemynos g. 14,Vilnius, 06128, Lietuva;2021-11-01 21:26:42;Žemynos g. 14,Vilnius, 06128, Lietuva;2021-11-01 21:26:51;0;1 minute;0;0.00
+8843722;LMR627;VW Golf;Rūko g. 7,Klaipėda, 91273, Lietuva;2021-11-01 17:41:35;Žemynos g. 14,Vilnius, 06128, Lietuva;2021-11-01 21:25:28;316;3 hours 44 minutes;0;0.00
+8838350;LTU840;VW Golf;Raudonės g. ,Klaipėda, 93168, Lietuva;2021-10-31 15:02:00;Bandužių g. 13,Klaipėda, 95232, Lietuva;2021-10-31 15:57:40;10;56 minutes;0;0.00
+8838321;EV6717;VW E-Crafter;Raudonės g. ,Klaipėda, 93168, Lietuva;2021-10-31 14:49:42;Jūreivių g. 25,Klaipėda, 93165, Lietuva;2021-10-31 14:54:13;0;5 minutes;0;0.00
+8837740;LTU840;VW Golf;Malūno g. 2B,Palanga, 00126, Lietuva;2021-10-31 12:53:39;Raudonės g. ,Klaipėda, 93168, Lietuva;2021-10-31 14:49:26;41;1 hour 56 minutes;0;0.00
+8815981;LUZ163;Toyota Corolla;Laisvės pr. 82,Vilnius, 06125, Lietuva;2021-10-28 00:00:31;Žemynos g. 14,Vilnius, 06128, Lietuva;2021-10-28 00:03:40;0;4 minutes;0;0.00
+8815513;LZY807;Toyota Yaris;Mašinų kvartalas, J. Kubiliaus g. 18,Vilnius, 09108, Lietuva;2021-10-27 21:30:09;Žemynos g. 30,Vilnius, 06125, Lietuva;2021-10-27 23:57:06;32;2 hours 27 minutes;0;0.00
+8815510;LZC943;VW T-Cross;Mašinų kvartalas, J. Kubiliaus g. 18,Vilnius, 09108, Lietuva;2021-10-27 21:28:57;Mašinų kvartalas, J. Kubiliaus g. 18,Vilnius, 09108, Lietuva;2021-10-27 21:30:00;0;2 minutes;0;0.00
+8814944;LZY807;Toyota Yaris;Žemynos g. ,Vilnius, 06128, Lietuva;2021-10-27 19:56:20;Mašinų kvartalas, J. Kubiliaus g. 18,Vilnius, 09108, Lietuva;2021-10-27 21:28:39;16;1 hour 33 minutes;0;0.00
+8770368;MAC230;VW T-Cross;Pašilaičių g. 6,Vilnius, 06116, Lietuva;2021-10-21 04:55:19;Geležinio Vilko g. 6A,Vilnius, 03507, Lietuva;2021-10-21 05:05:53;9;11 minutes;0;0.00
+8764032;962DLT;VW T-Cross;Vikingų g. ,Vilnius, 02188, Lietuva;2021-10-20 07:04:22;Iešmininkų g. 12,Vilnius, 02174, Lietuva;2021-10-20 07:10:35;4;7 minutes;0;0.00
+8763732;LMR607;VW Golf;Žemynos g. 14,Vilnius, 06128, Lietuva;2021-10-20 04:57:48;Geležinio Vilko g. 6A,Vilnius, 03507, Lietuva;2021-10-20 05:15:51;9;19 minutes;0;0.00
+8671517;MAC219;VW T-Cross;A. Vivulskio g. 14,Vilnius, 03221, Lietuva;2021-10-05 22:12:48;Žemynos g. 14,Vilnius, 06128, Lietuva;2021-10-05 22:26:06;7;14 minutes;0;0.00
+8670233;LZY812;Toyota Yaris;Žemynos g. 14,Vilnius, 06128, Lietuva;2021-10-05 18:49:22;Vytenio g. 13,Vilnius, 03112, Lietuva;2021-10-05 22:06:47;59;3 hours 18 minutes;0;0.00
+8669115;LZY812;Toyota Yaris;Radvilų g. 11,Vilnius, 01129, Lietuva;2021-10-05 16:14:27;Žemynos g. 43,Vilnius, 06128, Lietuva;2021-10-05 16:41:02;9;27 minutes;5.49;2.39
+8665131;LMR546;VW Golf;Lvovo g. 56,Vilnius, 08105, Lietuva;2021-10-04 21:35:34;Žemynos g. 12,Vilnius, 06129, Lietuva;2021-10-04 21:58:20;8;23 minutes;0;0.00
+8665097;LZH955;VW T-Cross;Stirnų g. ,Vilnius, 08101, Lietuva;2021-10-04 21:28:05;Stirnų g. ,Vilnius, 08101, Lietuva;2021-10-04 21:28:37;0;1 minute;0;0.00
+8665089;LGN133;VW Passat;Smolensko g. 3,Vilnius, 03202, Lietuva;2021-10-04 21:17:08;Smolensko g. 3,Vilnius, 03202, Lietuva;2021-10-04 21:18:26;0;2 minutes;0;0.00
+8665080;WL9987L;Fiat Ducato;Naugarduko g. 97,Vilnius, 03160, Lietuva;2021-10-04 21:15:42;Naugarduko g. 97,Vilnius, 03160, Lietuva;2021-10-04 21:16:29;0;1 minute;0;0.00
+8665065;WL9987L;Fiat Ducato;Naugarduko g. 97,Vilnius, 03160, Lietuva;2021-10-04 21:13:48;Naugarduko g. 97,Vilnius, 03160, Lietuva;2021-10-04 21:14:48;0;1 minute;0;0.00
+8665038;LMZ536;VW Golf;Savanorių pr. 13A,Vilnius, 03159, Lietuva;2021-10-04 21:09:06;Savanorių pr. 13A,Vilnius, 03159, Lietuva;2021-10-04 21:09:37;0;1 minute;0;0.00
+8665017;LSU163;Toyota Yaris;Z. Sierakausko g. 15A,Vilnius, 03105, Lietuva;2021-10-04 21:04:30;Z. Sierakausko g. 15A,Vilnius, 03105, Lietuva;2021-10-04 21:05:18;0;1 minute;0;0.00
+8665001;MAC235;VW T-Cross;Vytenio g. 1,Vilnius, 03113, Lietuva;2021-10-04 21:00:33;Vytenio g. 1,Vilnius, 03113, Lietuva;2021-10-04 21:03:41;0;4 minutes;0;0.00
+8664993;124DLT;VW T-Cross;Vytenio g. 1,Vilnius, 03113, Lietuva;2021-10-04 21:00:02;Vytenio g. 1,Vilnius, 03113, Lietuva;2021-10-04 21:00:23;0;1 minute;0;0.00
+8664986;LSY631;Toyota Corolla;S. Konarskio g. 21,Vilnius, 03109, Lietuva;2021-10-04 20:57:28;S. Konarskio g. 21,Vilnius, 03109, Lietuva;2021-10-04 20:58:17;0;1 minute;0;0.00
+8664969;LTP224;VW T-Cross;S. Konarskio g. 23,Vilnius, 03123, Lietuva;2021-10-04 20:55:47;S. Konarskio g. 23,Vilnius, 03123, Lietuva;2021-10-04 20:56:50;0;2 minutes;0;0.00
+8664928;LZC685;VW T-Cross;Paneriškių g. ,Vilnius, 02300, Lietuva;2021-10-04 20:45:59;Paneriškių g. ,Vilnius, 02300, Lietuva;2021-10-04 20:50:08;0;5 minutes;0;0.00
+8664910;LZC947;VW T-Cross;Paneriškių g. ,Vilnius, 02300, Lietuva;2021-10-04 20:45:05;Paneriškių g. ,Vilnius, 02300, Lietuva;2021-10-04 20:45:28;0;1 minute;0;0.00
+8664892;MBM527;VW Golf;Architektų g. ,Vilnius, 04105, Lietuva;2021-10-04 20:37:45;Architektų g. ,Vilnius, 04105, Lietuva;2021-10-04 20:38:20;0;1 minute;0;0.00
+8664875;LUN167;VW T-Cross;Erfurto g. 4,Vilnius, 04117, Lietuva;2021-10-04 20:34:53;Erfurto g. 4,Vilnius, 04117, Lietuva;2021-10-04 20:35:22;0;1 minute;0;0.00
+8664862;LUI372;VW T-Cross;Architektų g. 208,Vilnius, 04214, Lietuva;2021-10-04 20:31:46;Architektų g. 208,Vilnius, 04214, Lietuva;2021-10-04 20:32:24;0;1 minute;0;0.00
+8664833;LUK873;VW T-Cross;Sausio 13-osios g. 16A,Vilnius, 04349, Lietuva;2021-10-04 20:27:28;Sausio 13-osios g. 16A,Vilnius, 04349, Lietuva;2021-10-04 20:28:19;0;1 minute;0;0.00
+8664798;MT8687;VW T-Roc;Algimanto Petro Kavoliuko g. 20,Vilnius, 04325, Lietuva;2021-10-04 20:23:11;Algimanto Petro Kavoliuko g. 20,Vilnius, 04325, Lietuva;2021-10-04 20:24:36;0;2 minutes;0;0.00
+8664737;LUK825;VW T-Roc;Laisvės pr. 52,Vilnius, 04341, Lietuva;2021-10-04 20:16:25;Laisvės pr. 52,Vilnius, 04341, Lietuva;2021-10-04 20:17:53;0;2 minutes;0;0.00
+8664692;LOB144;Toyota Corolla;Įsruties g. 3,Vilnius, 06219, Lietuva;2021-10-04 20:07:23;Įsruties g. 3,Vilnius, 06219, Lietuva;2021-10-04 20:08:07;0;1 minute;0;0.00
+8664638;MAB611;Peugeot 2008;Pilaitės pr. 31,Vilnius, 06269, Lietuva;2021-10-04 20:00:39;Pilaitės pr. 31,Vilnius, 06269, Lietuva;2021-10-04 20:01:37;0;1 minute;0;0.00
+8664594;MU7604;VW T-Cross;Viršuliškių g. 49,Vilnius, 05102, Lietuva;2021-10-04 19:50:32;Viršuliškių g. 49,Vilnius, 05102, Lietuva;2021-10-04 19:51:50;0;2 minutes;0;0.00
+8664553;LUI375;VW T-Cross;Taikos g. 162A,Vilnius, 05245, Lietuva;2021-10-04 19:44:14;Taikos g. 162A,Vilnius, 05245, Lietuva;2021-10-04 19:45:41;0;2 minutes;0;0.00
+8664513;MBM510;VW Golf;Sudervės kel. 28,Vilnius, 07194, Lietuva;2021-10-04 19:37:56;Sudervės kel. 28,Vilnius, 07194, Lietuva;2021-10-04 19:38:38;0;1 minute;0;0.00
+8664471;LZC604;VW T-Cross;Ukmergės g. 184A,Vilnius, 07168, Lietuva;2021-10-04 19:32:12;Ukmergės g. 184A,Vilnius, 07168, Lietuva;2021-10-04 19:34:10;0;2 minutes;0;0.00
+8664355;MT8687;VW T-Roc;Jurgio Baltrušaičio g. 9,Vilnius, 06120, Lietuva;2021-10-04 19:19:59;Jurgio Baltrušaičio g. 9,Vilnius, 06120, Lietuva;2021-10-04 19:22:56;0;3 minutes;0;0.00
+8663929;LUS305;Toyota Yaris;Pašilaičių g. 1,Vilnius, 06115, Lietuva;2021-10-04 18:34:31;Mykolo Sleževičiaus g. 13,Vilnius, 06326, Lietuva;2021-10-04 19:12:53;4;39 minutes;0;0.00
+8632957;LUS273;Toyota Yaris;Ozo g. 20,Vilnius, 07151, Lietuva;2021-09-29 23:05:07;Žemynos g. 14,Vilnius, 06128, Lietuva;2021-09-29 23:25:20;7;21 minutes;0;0.00
+8632923;959DLT;VW T-Cross;Ozo g. 20,Vilnius, 07151, Lietuva;2021-09-29 23:01:12;Ozo g. 20,Vilnius, 07151, Lietuva;2021-09-29 23:04:29;0;4 minutes;0;0.00
+8632890;WL0263M;Fiat Ducato;Kirkuto al. ,Vilnius, 01210, Lietuva;2021-09-29 22:41:42;Kirkuto al. ,Vilnius, 01210, Lietuva;2021-09-29 22:41:59;0;1 minute;0;0.00
+8632877;WL0263M;Fiat Ducato;Kirkuto al. ,Vilnius, 01210, Lietuva;2021-09-29 22:39:36;Kirkuto al. ,Vilnius, 01210, Lietuva;2021-09-29 22:40:55;0;2 minutes;0;0.00
+8632847;LSI138;VW T-Cross;Filaretų g. 20,Vilnius, 01208, Lietuva;2021-09-29 22:34:34;Varpų g. 5,Vilnius, 01208, Lietuva;2021-09-29 22:36:39;0;3 minutes;0;0.00
+8632819;LSI135;VW T-Cross;Liepkalnio g. 14,Vilnius, 02104, Lietuva;2021-09-29 22:25:51;Liepkalnio g. 14,Vilnius, 02104, Lietuva;2021-09-29 22:27:11;0;2 minutes;0;0.00
+8632770;LZC690;VW T-Cross;Brolių g. 17,Vilnius, 02156, Lietuva;2021-09-29 22:07:59;Brolių g. 17,Vilnius, 02156, Lietuva;2021-09-29 22:14:12;0;7 minutes;0;0.00
+8632743;LLL851;Opel Crossland X;Kauno g. 30,Vilnius, 03202, Lietuva;2021-09-29 22:00:13;Kauno g. 30,Vilnius, 03202, Lietuva;2021-09-29 22:02:33;0;3 minutes;0;0.00
+8632727;LER912;VW Crafter;Naugarduko g. 97,Vilnius, 03160, Lietuva;2021-09-29 21:52:41;Naugarduko g. 97,Vilnius, 03160, Lietuva;2021-09-29 21:54:43;0;3 minutes;0;0.00
+8632708;LZC682;VW T-Cross;Naugarduko g. 97,Vilnius, 03160, Lietuva;2021-09-29 21:50:03;Naugarduko g. 97,Vilnius, 03160, Lietuva;2021-09-29 21:51:43;0;2 minutes;0;0.00
+8632685;LUI439;VW T-Cross;Gerosios Vilties g. 28,Vilnius, 03144, Lietuva;2021-09-29 21:42:35;Gerosios Vilties g. 28,Vilnius, 03144, Lietuva;2021-09-29 21:46:34;0;4 minutes;0;0.00
+8632652;LNK289;Toyota Corolla;Savanorių pr. 43,Vilnius, 03130, Lietuva;2021-09-29 21:38:00;Savanorių pr. 43,Vilnius, 03130, Lietuva;2021-09-29 21:40:48;0;3 minutes;0;0.00
+8632630;LNE264;Opel Crossland X;Eigulių g. ,Vilnius, 03131, Lietuva;2021-09-29 21:33:17;Eigulių g. ,Vilnius, 03131, Lietuva;2021-09-29 21:34:59;0;2 minutes;0;0.00
+8632611;LTN056;VW T-Cross;Skaistvario g. ,Vilnius, 03156, Lietuva;2021-09-29 21:27:47;Skaistvario g. ,Vilnius, 03156, Lietuva;2021-09-29 21:29:00;0;2 minutes;0;0.00
+8632556;LUV762;VW T-Cross;Unnamed Road,Vilnius, 03156, Lietuva;2021-09-29 21:22:30;Unnamed Road,Vilnius, 03156, Lietuva;2021-09-29 21:24:46;0;3 minutes;0;0.00
+8632536;MAP209;VW Golf;Paneriškių g. ,Vilnius, 02300, Lietuva;2021-09-29 21:11:01;Paneriškių g. ,Vilnius, 02300, Lietuva;2021-09-29 21:13:04;0;3 minutes;0;0.00
+8632485;LMR571;VW Golf;Paneriškių g. ,Vilnius, 02300, Lietuva;2021-09-29 21:07:09;Paneriškių g. ,Vilnius, 02300, Lietuva;2021-09-29 21:09:55;0;3 minutes;0;0.00
+8632463;LSC059;VW Golf;Erfurto g. ,Vilnius, 04100, Lietuva;2021-09-29 20:59:52;Erfurto g. ,Vilnius, 04100, Lietuva;2021-09-29 21:00:48;0;1 minute;0;0.00
+8632425;MAC206;VW T-Cross;Architektų g. ,Vilnius, 04207, Lietuva;2021-09-29 20:55:55;Architektų g. ,Vilnius, 04207, Lietuva;2021-09-29 20:57:50;0;2 minutes;0;0.00
+8632346;LUI668;VW T-Cross;Loretos Asanavičiūtės g. 38,Vilnius, 04318, Lietuva;2021-09-29 20:49:57;Loretos Asanavičiūtės g. 38,Vilnius, 04318, Lietuva;2021-09-29 20:50:49;0;1 minute;0;0.00
+8632264;LZC810;VW Crafter;Pilkalnio g. 3,Vilnius, 06203, Lietuva;2021-09-29 20:37:03;Pilkalnio g. 3,Vilnius, 06203, Lietuva;2021-09-29 20:37:59;0;1 minute;0;0.00
+8632230;LNK286;Toyota Corolla;Taikos g. ,Vilnius, 05210, Lietuva;2021-09-29 20:22:34;Taikos g. ,Vilnius, 05210, Lietuva;2021-09-29 20:23:35;0;2 minutes;0;0.00
+8632182;LMR582;VW Golf;Taikos g. 162B,Vilnius, 05245, Lietuva;2021-09-29 20:17:38;Taikos g. 162B,Vilnius, 05245, Lietuva;2021-09-29 20:18:35;0;1 minute;0;0.00
+8632167;LTA783;VW Crafter;Laisvės pr. ,Vilnius, 05112, Lietuva;2021-09-29 20:07:41;Laisvės pr. ,Vilnius, 05112, Lietuva;2021-09-29 20:09:13;0;2 minutes;0;0.00
+8632162;LTA783;VW Crafter;Laisvės pr. ,Vilnius, 05112, Lietuva;2021-09-29 20:06:38;Laisvės pr. ,Vilnius, 05112, Lietuva;2021-09-29 20:07:28;0;1 minute;0;0.00
+8632139;LTA783;VW Crafter;Laisvės pr. ,Vilnius, 05112, Lietuva;2021-09-29 20:06:06;Laisvės pr. ,Vilnius, 05112, Lietuva;2021-09-29 20:06:23;0;1 minute;0;0.00
+8632071;LZF041;Skoda Fabia;Sudervės kel. ,Vilnius, 07195, Lietuva;2021-09-29 19:56:38;Sudervės kel. ,Vilnius, 07195, Lietuva;2021-09-29 19:59:36;0;3 minutes;0;0.00
+8632042;LZC811;VW Crafter;Fabijoniškių g. 99,Vilnius, 07101, Lietuva;2021-09-29 19:47:32;Fabijoniškių g. 99,Vilnius, 07101, Lietuva;2021-09-29 19:49:10;0;2 minutes;0;0.00
+8632024;KSE206;Fiat Ducato;Ateities g. ,Vilnius, 07101, Lietuva;2021-09-29 19:44:03;Ateities g. ,Vilnius, 07101, Lietuva;2021-09-29 19:45:24;0;2 minutes;0;0.00
+8631582;LTS850;VW T-Cross;Laisvės pr. 88,Vilnius, 06128, Lietuva;2021-09-29 19:03:15;Mykolo Sleževičiaus g. 13,Vilnius, 06326, Lietuva;2021-09-29 19:34:03;5;31 minutes;0;0.00
+8527600;LSU804;Toyota Yaris;Visorių g. 30,Vilnius, 06326, Lietuva;2021-09-14 19:40:42;Žemynos g. 14,Vilnius, 06128, Lietuva;2021-09-15 00:36:35;79;4 hours 56 minutes;0;0.00
+8519258;LSI132;VW T-Cross;Lvovo g. 44,Vilnius, 09306, Lietuva;2021-09-13 19:02:42;Žemynos g. 12,Vilnius, 06129, Lietuva;2021-09-13 21:14:33;16;2 hours 12 minutes;23.46;23.46
+8518972;MP4088;Toyota Corolla;Laisvės pr. 88,Vilnius, 06128, Lietuva;2021-09-13 18:42:36;Lvovo g. 42,Vilnius, 09319, Lietuva;2021-09-13 19:02:08;8;20 minutes;5.08;5.08
+8479490;LFU578;Toyota Corolla;Pašilaičių g. 2,Vilnius, 06115, Lietuva;2021-09-08 13:25:35;Antakalnio g. 76,Vilnius, 10206, Lietuva;2021-09-08 13:43:58;9;19 minutes;5.12;5.12
+8356749;MAN687;Opel Crossland;Medeinos g. 13,Vilnius, 06139, Lietuva;2021-08-21 17:17:34;Panerių g. 10,Vilnius, 01312, Lietuva;2021-08-21 17:30:42;9;14 minutes;4.55;3.08
+7913478;LMR607;VW Golf;Klaipėdos valstybinė kolegija. Socialinių mokslų fakultetas, Jaunystės g. 1,Klaipėda, 92196, Lietuva;2021-06-09 12:22:10;Stovyklos g. ,Klaipėda, 92281, Lietuva;2021-06-09 13:00:52;24;39 minutes;12.45;12.45
+7912153;LNM219;Skoda Fabia;Žemynos g. 14,Vilnius, 06128, Lietuva;2021-06-09 07:55:49;Sudervės kel. 39A,Vilnius, 05264, Lietuva;2021-06-09 08:04:32;2;9 minutes;1.64;1.64
+7911633;LNM219;Skoda Fabia;Unnamed Road,Vilnius, 01722, Lietuva;2021-06-09 00:56:31;Žemynos g. 14,Vilnius, 06128, Lietuva;2021-06-09 01:07:54;2;12 minutes;2.06;2.06
+7911057;LUZ184;Toyota Corolla;Jurgio Baltrušaičio g. ,Vilnius, 06118, Lietuva;2021-06-08 21:13:58;Žemynos g. 14,Vilnius, 06128, Lietuva;2021-06-08 21:17:07;1;4 minutes;0.89;0.89
+7910951;LUZ184;Toyota Corolla;PLC „Akropolis“, Ozo g. 25,Vilnius, 01402, Lietuva;2021-06-08 21:00:22;Jurgio Baltrušaičio g. ,Vilnius, 06118, Lietuva;2021-06-08 21:08:46;4;9 minutes;2.37;2.37
+7910889;LTO047;Peugeot 208;Žemynos g. 2,Vilnius, 06135, Lietuva;2021-06-08 20:34:28;PLC „Akropolis“, Ozo g. 25,Vilnius, 01402, Lietuva;2021-06-08 20:45:06;4;11 minutes;2.71;1.28
+7908298;LOA626;Skoda Fabia;V. A. Graičiūno g. 8B,Vilnius, 02244, Lietuva;2021-06-08 13:14:14;Žemynos g. 12,Vilnius, 06129, Lietuva;2021-06-08 14:53:08;23;1 hour 39 minutes;0;0.00
+7908165;LFU574;Toyota Corolla;Žarijų g. ,Vilnius, 27102, Lietuva;2021-06-08 12:42:35;Jonažolių g. 1,Vilnius, 04134, Lietuva;2021-06-08 12:52:41;8;11 minutes;0;0.00
+7907910;LMZ604;VW Golf;V. A. Graičiūno g. 8B,Vilnius, 02244, Lietuva;2021-06-08 11:56:27;Architektų g. 23,Vilnius, 04112, Lietuva;2021-06-08 12:29:27;10;33 minutes;0;0.00
+7907766;LUS289;Toyota Yaris;Žarijų g. 6A,Vilnius, 27102, Lietuva;2021-06-08 11:26:16;Ignitis Charging station, Erfurto g. ,Vilnius, 04135, Lietuva;2021-06-08 11:38:34;7;13 minutes;0;0.00
+7906478;LNH461;VW Golf Variant;no, Žemynos g. ,Vilnius, 06128, Lietuva;2021-06-08 06:23:18;Loretos Asanavičiūtės g. 15,Vilnius, 04317, Lietuva;2021-06-08 11:13:34;96;4 hours 51 minutes;0;0.00
+7761021;KZT702;VW Golf;Tilto g. 29,Vilnius, 01101, Lietuva;2021-05-11 20:30:18;Žemynos g. 14,Vilnius, 06128, Lietuva;2021-05-11 23:03:14;37;2 hours 33 minutes;0;0.00
+7760460;LUI439;VW T-Cross;PC Galaktika, Žemynos g. 18,Vilnius, 06128, Lietuva;2021-05-11 19:03:41;Tilto g. 29,Vilnius, 01101, Lietuva;2021-05-11 20:28:51;15;1 hour 26 minutes;0;0.00
+7755825;KZT702;VW Golf;Smolensko g. 37,Vilnius, 03201, Lietuva;2021-05-11 00:03:52;Žemynos g. 14,Vilnius, 06128, Lietuva;2021-05-11 00:34:15;15;31 minutes;7.96;5.96
+7729668;LOA647;Skoda Fabia;Žemynos g. 16,Vilnius, 06128, Lietuva;2021-05-06 08:45:24;Žemynos g. 14,Vilnius, 06128, Lietuva;2021-05-06 09:32:00;10;47 minutes;6.5;6.50
+7677116;LMO599;Seat Ibiza;Savanorių pr. 178F,Vilnius, 02304, Lietuva;2021-04-26 08:37:13;Žemynos g. 12,Vilnius, 06129, Lietuva;2021-04-26 08:55:35;11;19 minutes;5.24;3.24
+7652378;LII835;Toyota Corolla;Antakalnio g. 76,Vilnius, 10206, Lietuva;2021-04-21 09:12:46;Žemynos g. 12,Vilnius, 06129, Lietuva;2021-04-21 09:32:12;10;20 minutes;5.2;5.20
+7652122;LII835;Toyota Corolla;Žemynos g. 14,Vilnius, 06128, Lietuva;2021-04-21 08:23:57;Antakalnio g. 76,Vilnius, 10206, Lietuva;2021-04-21 08:46:53;9;23 minutes;5.48;5.48
+7643951;LEP466;VW Crafter;Universiteto al. 19,Klaipėda, 92294, Lietuva;2021-04-19 15:16:32;Laisvės pr. 125A,Vilnius, 06128, Lietuva;2021-04-19 18:39:32;318;3 hours 23 minutes;0;0.00
+7620949;LAP788;Toyota Yaris;Antakalnio g. 82,Vilnius, 10204, Lietuva;2021-04-14 17:45:43;Ukmergės g. 282,Vilnius, 06115, Lietuva;2021-04-14 18:14:01;10;29 minutes;4.7;4.70
+7620545;LAP788;Toyota Yaris;Laisvės pr. 125A,Vilnius, 06128, Lietuva;2021-04-14 16:54:32;Antakalnio g. 82,Vilnius, 10204, Lietuva;2021-04-14 17:16:12;9;22 minutes;3.82;3.82
+7588818;MAB638;VW Golf;Šaltinių g. 7,Vilnius, 03214, Lietuva;2021-04-07 19:03:58;Benedikto turgus, Ukmergės g. 259A,Vilnius, 07108, Lietuva;2021-04-07 19:16:47;8;13 minutes;3.68;3.68
+7588202;LBK124;VW Golf;Laisvės pr. 125,Vilnius, 06118, Lietuva;2021-04-07 17:22:48;Aguonų g. 11,Vilnius, 03213, Lietuva;2021-04-07 17:34:07;8;12 minutes;3.52;3.52
+7574834;LNM219;Skoda Fabia;Unnamed Road,Vilnius, 06116, Lietuva;2021-04-03 19:08:58;Žemynos g. 14,Vilnius, 06128, Lietuva;2021-04-03 19:38:33;13;30 minutes;5.34;5.34
+7574512;LNM219;Skoda Fabia;Igno Šimulionio g. 3,Vilnius, 04334, Lietuva;2021-04-03 17:47:03;Unnamed Road,Vilnius, 06116, Lietuva;2021-04-03 17:56:32;4;10 minutes;1.72;1.72
+7574197;LNM219;Skoda Fabia;Medeinos g. 9,Vilnius, , Lietuva;2021-04-03 16:45:44;Igno Šimulionio g. 3,Vilnius, 04334, Lietuva;2021-04-03 16:58:50;6;14 minutes;2.48;2.48
+7562267;LMZ540;VW Golf;Kioskas,  ,Vilnius, 06116, Lietuva;2021-03-31 19:31:03;Liepkalnio g. 37,Vilnius, 02105, Lietuva;2021-03-31 19:48:51;15;18 minutes;5.88;5.88
+7561134;LBV690;Toyota Yaris;Žolyno g. 15,Vilnius, 10215, Lietuva;2021-03-31 16:20:06;Žemynos g. 12,Vilnius, 06129, Lietuva;2021-03-31 16:51:15;12;32 minutes;5.36;5.36
+7560630;LII798;Toyota Yaris;Medeinos g. ,Vilnius, 06105, Lietuva;2021-03-31 14:25:03;Kareivių g. 7A,Vilnius, 09109, Lietuva;2021-03-31 14:39:56;7;15 minutes;2.76;2.76
+7496454;LHM671;Toyota Corolla;Žolyno g. 15,Vilnius, 10206, Lietuva;2021-03-15 08:24:51;Benedikto turgus, Ukmergės g. 259A,Vilnius, 07108, Lietuva;2021-03-15 08:41:08;9;17 minutes;4.52;4.52
+7496273;LIV034;VW Golf;Žemynos g. 10,Vilnius, 06129, Lietuva;2021-03-15 07:35:47;Antakalnio g. 65,Vilnius, 10207, Lietuva;2021-03-15 07:54:56;10;20 minutes;5.2;5.20
+7491166;LOB203;Toyota Corolla;Žemynos g. 14,Vilnius, 06128, Lietuva;2021-03-13 13:01:24;Žemynos g. 14,Vilnius, 06128, Lietuva;2021-03-13 15:54:16;91;2 hours 53 minutes;36.77;36.77
+7330971;LIY205;Peugeot 308;Unnamed Road,Vilnius, 02188, Lietuva;2021-01-28 05:33:36;Žemynos g. 14,Vilnius, 06128, Lietuva;2021-01-28 06:00:56;15;28 minutes;8.48;8.48
+7330959;LCY182;Mini Convertible;Unnamed Road,Vilnius, LT-02189, Lietuva;2021-01-28 05:15:31;Unnamed Road,Vilnius, LT-02189, Lietuva;2021-01-28 05:20:30;0;5 minutes;0.8;0.80
+7330127;LNH365;VW Golf Variant;Pašilaičių g. 6,Vilnius, 06116, Lietuva;2021-01-27 19:39:17;Metalo g. 13,Vilnius, 02190, Lietuva;2021-01-27 19:59:31;14;21 minutes;6.16;6.16
+7031371;LII907;Toyota Corolla;PC „Studlendas“, H. Manto g. 90, Klaipėda 92294, Lietuva;2020-11-06 13:42:49;Stovyklos g. , Klaipėda 92281, Lietuva;2020-11-06 13:49:50;5;7 minutes;2.6;2.60
+6820060;LBH629;VW Polo;Geležinkelio g. 8A, Vilnius 02100, Lietuva;2020-09-22 19:15:16;Savanorių pr. 40A, Vilnius 03126, Lietuva;2020-09-22 19:27:34;4;13 minutes;3.4;3.40
+6748416;LMR617;VW Golf;Šermukšnių g. 10, Klaipėda 91207, Lietuva;2020-09-10 13:25:47;Stovyklos g. , Klaipėda 92281, Lietuva;2020-09-10 13:47:03;11;22 minutes;6.6;6.60
+6655913;KPJ558;Toyota Auris;Molo g. 56, Klaipėda 92278, Lietuva;2020-08-25 19:22:50;Vėtros g. , Klaipėda 92278, Lietuva;2020-08-25 19:25:21;2;3 minutes;1;1.00
+6484028;162LDN;Fiat 500;Geležinkelio g. , Vilnius 01047, Lietuva;2020-07-25 21:36:08;Totorių g. 8, Vilnius 01121, Lietuva;2020-07-25 21:45:42;3;10 minutes;2.14;2.14
+6415469;KPD745;Toyota Auris;Gintaro g. 8, Klaipėda 92238, Lietuva;2020-07-13 20:14:37;Stovyklos g. , Klaipėda 92281, Lietuva;2020-07-13 20:24:10;8;10 minutes;3.6;3.60
+6285282;KUO370;VW Polo;Loretos Asanavičiūtės g. , Vilnius 04304, Lietuva;2020-06-19 20:48:24;Žemynos g. 12, Vilnius 06129, Lietuva;2020-06-19 20:58:57;6;11 minutes;3.4;3.40
+6285030;KET357;Mini One 5 door;Šventaragio g. 2, Vilnius 01122, Lietuva;2020-06-19 20:03:30;Vido Maciulevičiaus g. 20, Vilnius 04304, Lietuva;2020-06-19 20:17:32;8;15 minutes;4.6;4.60
+6107035;LOB852;VW Golf;Apolinaro Juozo Povilaičio g. 20, Vilnius 04336, Lietuva;2020-05-14 06:11:04;Medeinos g. 8, Vilnius 06112, Lietuva;2020-05-14 06:17:00;4;6 minutes;1.88;1.88
+6106450;LII823;Toyota Corolla;Gabijos g. 53, Vilnius 06100, Lietuva;2020-05-13 19:44:06;Savanorių pr. 247, Neravai 02300, Lietuva;2020-05-13 19:56:02;14;12 minutes;4.78;4.78
+6106422;LII823;Toyota Corolla;Gabijos g. 53, Vilnius 06100, Lietuva;2020-05-13 19:43:34;Gabijos g. 53, Vilnius 06100, Lietuva;2020-05-13 19:43:46;0;1 minute;0.2;0.20
+6102229;KMF455;VW Golf;Žemynos g. 2D, Vilnius 06128, Lietuva;2020-05-12 19:46:17;Savanorių pr. 247, Neravai 02300, Lietuva;2020-05-12 19:59:09;14;13 minutes;4.98;4.98
+6098009;KET344;Mini One 5 door;Žemynos g. 8, Vilnius 06128, Lietuva;2020-05-11 18:52:39;Savanorių pr. 247, Neravai 27102, Lietuva;2020-05-11 19:07:22;14;15 minutes;5.38;5.38
+6093413;KET344;Mini One 5 door;Verkių g. , Vilnius 10100, Lietuva;2020-05-10 18:01:33;Verkių g. 70, Vilnius 09128, Lietuva;2020-05-10 18:07:39;3;7 minutes;1.91;1.91
+6089351;LFU581;Toyota Corolla;Salomėjos Nėries g. 29, Vilnius 06306, Lietuva;2020-05-09 15:48:14;Vaidilutės g. 79, Vilnius 10100, Lietuva;2020-05-09 16:40:02;12;52 minutes;8.23;8.23
+6078162;KTT976;VW Polo;Žemynos g. 9, Vilnius 06128, Lietuva;2020-05-07 03:55:57;Vido Maciulevičiaus g. 20, Vilnius 04304, Lietuva;2020-05-07 05:44:35;15;1 hour 49 minutes;13.54;13.54
+6074156;LCU195;VW Golf;Vytauto Vaitkaus g. 5, Vilnius 04334, Lietuva;2020-05-06 06:24:40;Žemynos g. 12, Vilnius 06128, Lietuva;2020-05-06 06:31:53;4;8 minutes;2.28;2.28
+6072894;LAH209;Nissan Qashqai;Žemynos g. 8, Vilnius 06128, Lietuva;2020-05-05 18:43:41;Savanorių pr. 247, Neravai 27102, Lietuva;2020-05-05 18:56:35;14;13 minutes;5.38;5.38
+6068299;315LDN;Fiat 500;Medeinos g. 19, Vilnius , Lietuva;2020-05-04 18:23:38;Savanorių pr. 247, Neravai 27102, Lietuva;2020-05-04 18:37:31;14;14 minutes;4.34;4.34
+6064639;LZV828;Toyota Corolla;Medeinos g. 21, Vilnius , Lietuva;2020-05-03 18:22:14;Savanorių pr. 247, Neravai 27102, Lietuva;2020-05-03 18:33:54;14;12 minutes;4.78;4.78
+6061546;LHT214;Peugeot 308;Žemynos g. 33, Vilnius 06128, Lietuva;2020-05-02 18:23:23;Savanorių pr. 247, Neravai 27102, Lietuva;2020-05-02 18:35:07;14;12 minutes;4.78;4.78
+6058661;LBK125;VW Golf;Sodų g. 12, Vilnius 01313, Lietuva;2020-05-01 21:11:38;Žemynos g. 14, Vilnius 06128, Lietuva;2020-05-01 21:25:15;9;14 minutes;4.33;4.33
+6058513;LBK125;VW Golf;PC Galaktika, Žemynos g. 18, Vilnius 06128, Lietuva;2020-05-01 20:15:04;Sodų g. 12, Vilnius 01313, Lietuva;2020-05-01 20:31:41;11;17 minutes;5.27;5.27
+6054496;KOR452;Toyota Auris;Vaidilutės g. 79, Vilnius 10100, Lietuva;2020-04-30 20:14:08;Žemynos g. 14, Vilnius 06128, Lietuva;2020-04-30 20:29:03;10;15 minutes;4.7;4.70
+6051468;KOR452;Toyota Auris;Laisvės pr. 105, Vilnius 06128, Lietuva;2020-04-30 12:16:13;Vaidilutės g. 79, Vilnius 10100, Lietuva;2020-04-30 12:57:43;11;42 minutes;8.06;8.06
+6045598;KTT976;VW Polo;Vaidilutės g. 79, Vilnius 10100, Lietuva;2020-04-28 21:32:40;Medeinos g. , Vilnius 06112, Lietuva;2020-04-28 22:08:32;22;36 minutes;9.93;9.93
+6044130;KZP441;Nissan Qashqai;Ukmergės g. 282, Vilnius 07108, Lietuva;2020-04-28 16:47:35;Vaidilutės g. 79, Vilnius 10100, Lietuva;2020-04-28 17:05:50;13;19 minutes;6.52;6.52
+6041885;KUP932;VW Golf;Savanorių pr. 247, Neravai 27102, Lietuva;2020-04-28 06:03:08;Žemynos g. 14, Vilnius 06128, Lietuva;2020-04-28 06:25:22;19;23 minutes;7.83;7.83
+6040725;KUP932;VW Golf;Medeinos g. , Vilnius 06112, Lietuva;2020-04-27 18:34:56;Savanorių pr. 247, Neravai 27102, Lietuva;2020-04-27 18:46:30;14;12 minutes;4.78;4.78
+6036753;LCY184;Mini Convertible;Žemynos g. 19, Vilnius 06128, Lietuva;2020-04-26 18:32:24;Savanorių pr. 247, Neravai 27102, Lietuva;2020-04-26 18:44:00;14;12 minutes;4.78;4.78
+6033934;LER955;Peugeot 308;Savanorių pr. 247, Neravai 27102, Lietuva;2020-04-25 18:49:44;Savanorių pr. 247, Neravai 27102, Lietuva;2020-04-25 18:49:49;0;1 minute;0.2;0.20
+6033868;LER955;Peugeot 308;Gabijos g. 29, Vilnius 06100, Lietuva;2020-04-25 18:38:52;Savanorių pr. 247, Neravai 27102, Lietuva;2020-04-25 18:49:04;12;11 minutes;4.24;4.24
+6033842;LER955;Peugeot 308;Gabijos g. 29, Vilnius 06100, Lietuva;2020-04-25 18:29:24;Gabijos g. 29, Vilnius 06100, Lietuva;2020-04-25 18:29:40;0;1 minute;0.2;0.20
+6030396;LIV057;VW Golf;Pašilaičių g. 2, Vilnius 06116, Lietuva;2020-04-24 18:33:42;Savanorių pr. 247, Neravai 27102, Lietuva;2020-04-24 18:49:49;13;17 minutes;5.61;5.61
+6027536;LAN890;VW Golf;Žemynos g. 14, Vilnius 06128, Lietuva;2020-04-24 03:32:18;Žemynos g. 14, Vilnius 06128, Lietuva;2020-04-24 03:32:22;0;1 minute;0.2;0.20
+6027535;LAN890;VW Golf;Virginijaus Druskio g. 5, Vilnius 04304, Lietuva;2020-04-24 03:24:02;Žemynos g. 14, Vilnius 06128, Lietuva;2020-04-24 03:31:40;6;8 minutes;2.62;2.62
+6022902;KNV149;VW Golf;Laisvės pr. 125, Vilnius 06119, Lietuva;2020-04-22 18:10:52;M. Mažvydo g. 5, Vilnius 06287, Lietuva;2020-04-22 18:23:25;7;13 minutes;3.79;3.79
+6019318;LAN921;VW Golf;S. Konarskio g. 24, Vilnius 03127, Lietuva;2020-04-21 17:21:49;Žemynos g. 12, Vilnius 06128, Lietuva;2020-04-21 17:32:21;8;11 minutes;3.56;3.56
+6018876;LCC311;Opel Vivaro;Žirmūnų g. 125, Vilnius 09116, Lietuva;2020-04-21 15:35:14;S. Konarskio g. 24, Vilnius 03127, Lietuva;2020-04-21 17:08:02;17;1 hour 33 minutes;13.56;13.56
+6018808;LAN921;VW Golf;Šv. Ignoto g. 3, Vilnius 01144, Lietuva;2020-04-21 15:18:19;Žirmūnų g. 124, Vilnius 09128, Lietuva;2020-04-21 15:28:38;8;11 minutes;3.56;3.56
+6018723;LAN921;VW Golf;Laisvės pr. 82, Vilnius 06128, Lietuva;2020-04-21 14:53:58;Šv. Ignoto g. 3, Vilnius 01144, Lietuva;2020-04-21 15:06:52;8;13 minutes;3.96;3.96
+6012740;LCU170;VW Golf;Justiniškių g. 14, Vilnius 05130, Lietuva;2020-04-19 18:32:10;Savanorių pr. 247, Neravai 27102, Lietuva;2020-04-19 18:40:52;10;9 minutes;3.4;3.40
+6010920;KZT720;VW Golf;Antakalnio g. 61, Vilnius 10206, Lietuva;2020-04-19 08:27:14;Žemynos g. 14A, Vilnius 06128, Lietuva;2020-04-19 08:42:00;10;15 minutes;4.6;4.60
+6010896;KZT720;VW Golf;Žemynos g. 14, Vilnius 06128, Lietuva;2020-04-19 07:57:44;Antakalnio g. 61, Vilnius 10206, Lietuva;2020-04-19 08:10:36;10;13 minutes;4.2;4.20
+6010831;KZT720;VW Golf;Apolinaro Juozo Povilaičio g. 20, Vilnius 04334, Lietuva;2020-04-19 06:10:47;Žemynos g. 14, Vilnius 06128, Lietuva;2020-04-19 06:22:18;5;12 minutes;3.2;3.20
+6009927;KTT981;VW Polo;Sviliškių g. 6, Vilnius 05268, Lietuva;2020-04-18 19:03:29;Savanorių pr. 247, Neravai 27102, Lietuva;2020-04-18 19:14:47;14;12 minutes;4.64;4.64
+6006690;LHS842;Peugeot 308;Žemynos g. 10, Vilnius 06128, Lietuva;2020-04-17 18:04:07;Savanorių pr. 247, Neravai 27102, Lietuva;2020-04-17 18:14:52;14;11 minutes;4.44;4.44
+6003545;LBK135;VW Golf;Žemynos g. 10, Vilnius 06128, Lietuva;2020-04-16 17:56:39;Savanorių pr. 247, Neravai 27102, Lietuva;2020-04-16 18:09:33;15;13 minutes;5;5.00
+6001237;LAN936;VW Golf;Pašilaičių g. 2, Vilnius 06116, Lietuva;2020-04-15 22:07:50;Unnamed Road, Vilnius 06116, Lietuva;2020-04-15 22:34:12;15;27 minutes;7.8;7.80
+6000256;592LDN;Fiat 500;Liejyklos g. 3, Vilnius 01119, Lietuva;2020-04-15 16:19:06;Žemynos g. 14, Vilnius 06128, Lietuva;2020-04-15 16:33:47;10;15 minutes;3.8;3.80
+6000161;592LDN;Fiat 500;Jurgio Baltrušaičio g. 7, Vilnius 06120, Lietuva;2020-04-15 15:53:01;Liejyklos g. 3, Vilnius 01119, Lietuva;2020-04-15 16:04:34;6;12 minutes;2.76;2.76
+5987651;LIY239;Peugeot 308;Apolinaro Juozo Povilaičio g. 20, Vilnius 04334, Lietuva;2020-04-10 06:21:12;Žemynos g. 12, Vilnius 06128, Lietuva;2020-04-10 06:34:45;5;14 minutes;3.6;3.60
+5986944;LFV329;Toyota Corolla;Gabijos g. 1, Vilnius 06105, Lietuva;2020-04-09 18:25:12;Savanorių pr. 247, Neravai 27102, Lietuva;2020-04-09 18:37:50;13;13 minutes;4.68;4.68
+5981857;KJU273;VW Golf;A. Vienuolio g. 12, Vilnius 01104, Lietuva;2020-04-08 01:21:59;Žemynos g. 14, Vilnius 06128, Lietuva;2020-04-08 01:42:05;9;21 minutes;5.64;5.64
+5970204;LER664;Peugeot 308;Žemynos g. 33A, Vilnius 06128, Lietuva;2020-04-03 17:49:36;Savanorių pr. 247, Neravai 27102, Lietuva;2020-04-03 18:02:11;14;13 minutes;4.84;4.84
+5965059;LHT230;Peugeot 308;Pašilaičių g. 1, Vilnius 06116, Lietuva;2020-04-01 17:53:34;Savanorių pr. 247, Neravai 27102, Lietuva;2020-04-01 18:05:51;15;13 minutes;5;5.00
+5963521;LBK133;VW Golf;Žemynos g. 14, Vilnius 06128, Lietuva;2020-04-01 07:10:59;Žemynos g. 12, Vilnius 06128, Lietuva;2020-04-01 07:41:32;22;31 minutes;9.71;9.71
+5963482;LBK133;VW Golf;Savanorių pr. 247, Neravai 27102, Lietuva;2020-04-01 06:15:38;Žemynos g. 14, Vilnius 06128, Lietuva;2020-04-01 06:32:40;15;18 minutes;6;6.00
+5935864;LFV371;Toyota Corolla;Medeinos g. 12, Vilnius 06112, Lietuva;2020-03-21 21:38:41;Loretos Asanavičiūtės g. 15, Vilnius 04317, Lietuva;2020-03-21 21:50:03;6;12 minutes;3.36;3.36
+5851034;LCU221;VW Golf;Atvykimas , Vilnius 02188, Lietuva;2020-03-08 18:26:48;Žemynos g. 14, Vilnius 06128, Lietuva;2020-03-08 18:44:33;14;18 minutes;6.7;6.70
+5801810;KTT985;VW Polo;Pašilaičių g. 1, Vilnius 06116, Lietuva;2020-03-03 12:29:19;Parodų g. , Vilnius 04215, Lietuva;2020-03-03 12:43:25;9;15 minutes;4.35;4.35
+5789045;LAN922;VW Golf;J. Basanavičiaus g. 23, Vilnius 03107, Lietuva;2020-03-01 22:23:14;PC Galaktika, Žemynos g. 18, Vilnius 06128, Lietuva;2020-03-01 22:34:33;9;12 minutes;3.75;3.75
+5705754;LIY184;Peugeot 308;Rolando Jankausko g. 13, Vilnius 04317, Lietuva;2020-02-21 16:13:29;Savanorių pr. 180, Vilnius 02304, Lietuva;2020-02-23 17:50:50;131;2 days 1 hour 38 minutes;82.46;82.46
+5700186;LHS839;Peugeot 308;Lietuvos Spauda, Vilniaus g. , Vilnius 01119, Lietuva;2020-02-21 00:36:52;Pylimo g. 17, Vilnius 01118, Lietuva;2020-02-21 00:54:39;6;18 minutes;4.5;4.50
+5692664;LAN962;VW Golf;Ukmergės g. 283B, Vilnius 06115, Lietuva;2020-02-20 09:59:23;Benediktinių g. , Vilnius 01144, Lietuva;2020-02-20 10:15:02;8;16 minutes;4.4;4.40
+5680750;KJU271;VW Golf;Laisvės pr. , Vilnius 06128, Lietuva;2020-02-18 21:44:25;Sodų g. 3, Vilnius 01313, Lietuva;2020-02-18 22:12:43;14;29 minutes;7.6;7.60
+5680743;KJU271;VW Golf;Laisvės pr. , Vilnius 06128, Lietuva;2020-02-18 21:43:37;Laisvės pr. , Vilnius 06128, Lietuva;2020-02-18 21:43:48;0;1 minute;0.2;0.20
+5662233;KMF447;VW Golf;L. Stuokos-Gucevičiaus g. 3, Vilnius 01122, Lietuva;2020-02-16 23:06:42;PC Galaktika, Žemynos g. 18, Vilnius 06128, Lietuva;2020-02-16 23:40:07;15;34 minutes;7.75;7.75
+5655092;LER948;Peugeot 308;Unnamed Road, Vilnius 06128, Lietuva;2020-02-16 01:28:26;Panerių g. 37, Vilnius 03209, Lietuva;2020-02-16 08:18:02;12;6 hours 50 minutes;27.7;5.42
+5647206;KNV147;VW Golf;Žemynos g. 2, Vilnius 06135, Lietuva;2020-02-15 10:35:50;Liejyklos g. 3, Vilnius 01119, Lietuva;2020-02-15 10:48:29;9;13 minutes;3.95;3.95
+5613804;KUO361;VW Polo;Kioskas,  , Vilnius 06116, Lietuva;2020-02-12 01:38:58;Loretos Asanavičiūtės g. 15, Vilnius 04317, Lietuva;2020-02-12 01:47:30;5;9 minutes;2.55;2.55
+5594377;LCU227;VW Golf;Mada, Laisvės pr. 43D, Vilnius 05112, Lietuva;2020-02-10 01:12:26;Mada, Laisvės pr. 43D, Vilnius 05112, Lietuva;2020-02-10 01:12:43;0;1 minute;0.2;0.20
+5593304;LCU227;VW Golf;Gabijos g. 13, Vilnius 06100, Lietuva;2020-02-09 20:34:40;Loretos Asanavičiūtės g. 15, Vilnius 04317, Lietuva;2020-02-09 21:30:00;27;56 minutes;9.55;9.55
+5592998;LHT153;Peugeot 308;Geležinkelio g. 6, Vilnius 01047, Lietuva;2020-02-09 19:53:23;Medeinos g. , Vilnius 06112, Lietuva;2020-02-09 20:06:22;12;13 minutes;4.4;4.40
+5566885;KNV145;VW Golf;Laisvės pr. 127, Vilnius 06119, Lietuva;2020-02-07 00:30:51;Laisvės pr. , Vilnius 05112, Lietuva;2020-02-07 01:10:30;17;40 minutes;8.74;8.74
+5541605;LES126;Toyota Corolla;Vido Maciulevičiaus g. 51, Vilnius 04304, Lietuva;2020-02-04 12:02:46;Žemynos g. 14, Vilnius 06128, Lietuva;2020-02-04 12:12:49;6;11 minutes;2.8;2.80
+5514541;KMA226;VW Golf;Laisvės pr. 125A, Vilnius 06128, Lietuva;2020-02-01 01:35:21;Unnamed Road, Vilnius 01141, Lietuva;2020-02-01 01:51:06;11;16 minutes;4.69;4.69
+5505715;LBV701;Toyota Yaris;Laisvės pr. 125A, Vilnius 06128, Lietuva;2020-01-31 09:46:47;Benediktinių g. , Vilnius 01144, Lietuva;2020-01-31 10:00:42;7;14 minutes;3.01;3.01
+5503443;KHK084;Fiat Ducato;Laisvės pr. 125A, Vilnius 06128, Lietuva;2020-01-30 23:52:20;Laisvės pr. 125A, Vilnius 06128, Lietuva;2020-01-31 01:59:30;21;2 hours 8 minutes;23.61;23.61
+5502981;LCU247;VW Golf;Aguonų g. 20, Vilnius 03213, Lietuva;2020-01-30 22:33:35;Žemynos g. 10, Vilnius 06128, Lietuva;2020-01-30 23:10:17;13;37 minutes;7.45;7.45
+5498254;LER601;Peugeot 308;Žemynos g. 1, Vilnius 06128, Lietuva;2020-01-30 13:58:06;Savanorių pr. 180, Vilnius 02304, Lietuva;2020-01-30 14:14:42;11;17 minutes;4.88;4.88
+5487937;LHM647;Toyota Corolla;Raugyklos g. 21, Vilnius 01140, Lietuva;2020-01-29 11:53:25;PROMO CASH & CARRY, Ukmergės g. 250, Vilnius 07108, Lietuva;2020-01-29 12:06:58;9;14 minutes;4.01;4.01
+5477846;LAN968;VW Golf;Pylimo g. 38, Vilnius 01308, Lietuva;2020-01-28 10:05:53;Šv. Ignoto g. 3, Vilnius 01144, Lietuva;2020-01-28 10:09:41;1;4 minutes;0.91;0.91
+5458522;LII860;Toyota Yaris;Raugyklos g. 19, Vilnius 01140, Lietuva;2020-01-25 21:20:05;Raugyklos g. 21, Vilnius 01140, Lietuva;2020-01-25 21:57:26;16;38 minutes;6.58;6.58
+5457996;LII860;Toyota Yaris;Raugyklos g. 19, Vilnius 01140, Lietuva;2020-01-25 20:16:25;Raugyklos g. 19, Vilnius 01140, Lietuva;2020-01-25 20:16:32;0;1 minute;0;0.00
+5457981;LII860;Toyota Yaris;Raugyklos g. 19, Vilnius 01140, Lietuva;2020-01-25 20:14:46;Raugyklos g. 19, Vilnius 01140, Lietuva;2020-01-25 20:15:09;0;1 minute;0;0.00
+5457820;LII860;Toyota Yaris;Saltoniškių g. 19, Vilnius 08105, Lietuva;2020-01-25 20:04:41;Raugyklos g. 19, Vilnius 01140, Lietuva;2020-01-25 20:13:24;4;9 minutes;1.87;1.87
+5456917;LAN951;VW Golf;Šaltinių g. 26, Vilnius 03233, Lietuva;2020-01-25 18:53:05;T. Narbuto g. , Vilnius 08105, Lietuva;2020-01-25 19:04:43;5;12 minutes;3.03;3.03
+5446569;KJU268;VW Golf;Savanorių pr. 180, Vilnius 02304, Lietuva;2020-01-24 17:55:29;Pylimo g. 59, Vilnius 02100, Lietuva;2020-01-24 18:09:11;7;14 minutes;3.71;3.71
+5444999;KUO377;VW Polo;Sodų g. 18A, Vilnius 01313, Lietuva;2020-01-24 15:26:33;Savanorių pr. 180, Vilnius 02304, Lietuva;2020-01-24 15:47:59;6;22 minutes;4.89;4.89
+5423258;KOR568;Toyota Auris;Žemaitijos g. 9, Vilnius 01133, Lietuva;2020-01-22 10:32:35;Liejyklos g. 3, Vilnius 01119, Lietuva;2020-01-22 10:36:42;1;5 minutes;0.91;0.91
+5396569;LBV753;Toyota Yaris;Unnamed Road, Vilnius 01139, Lietuva;2020-01-19 11:50:03;Šv. Ignoto g. 3, Vilnius 01144, Lietuva;2020-01-19 11:54:36;2;5 minutes;1.01;1.01
+5387756;KNV162;VW Golf;Šv. Stepono g. 11, Vilnius 01139, Lietuva;2020-01-18 11:20:52;Liejyklos g. 3, Vilnius 01119, Lietuva;2020-01-18 11:26:24;2;6 minutes;1.44;1.44
+5384398;LDJ122;Mini Cooper 5 door;Šv. Ignoto g. 3, Vilnius 01144, Lietuva;2020-01-17 21:29:40;Mindaugo g. 22, Vilnius 03215, Lietuva;2020-01-17 21:35:03;2;6 minutes;1.25;1.25
+5376231;LDJ109;Mini Convertible;Šv. Stepono g. 20, Vilnius 01139, Lietuva;2020-01-17 09:55:51;Benediktinių g. , Vilnius 01144, Lietuva;2020-01-17 10:01:30;1;6 minutes;1.29;1.29
+5371716;KOR582;Toyota Auris;Blusų turgus, Ozo g. , Vilnius 07150, Lietuva;2020-01-16 18:44:22;J. Lelevelio g. 1, Vilnius 01105, Lietuva;2020-01-16 18:51:49;5;8 minutes;2.08;2.08
+5363367;LCU180;VW Golf;Ukmergės g. 184A, Vilnius 07156, Lietuva;2020-01-15 20:09:09;Žemynos g. 14, Vilnius 06128, Lietuva;2020-01-15 20:21:20;6;13 minutes;3.18;3.18
+5363059;LCU180;VW Golf;Pylimo g. 35, Vilnius 01308, Lietuva;2020-01-15 19:39:58;Ukmergės g. 184A, Vilnius 07156, Lietuva;2020-01-15 19:53:42;6;14 minutes;3.56;3.56
+5330302;LAO066;Toyota Yaris;Žirmūnų g. , Vilnius 09124, Lietuva;2020-01-12 00:14:30;Raugyklos g. 22, Vilnius 01314, Lietuva;2020-01-12 00:31:34;7;18 minutes;3.46;3.46
+5318704;KHJ127;Toyota Yaris;Kauno g. 34, Vilnius 03203, Lietuva;2020-01-10 19:00:26;Raugyklos g. 21, Vilnius 01140, Lietuva;2020-01-10 19:04:39;2;5 minutes;0.86;0.86
+5303500;LCU232;VW Golf;Karmelitų g. , Vilnius 01306, Lietuva;2020-01-09 10:10:48;Šv. Ignoto g. 3, Vilnius 01144, Lietuva;2020-01-09 10:14:30;2;4 minutes;1.06;1.06
+5303437;LES076;Nissan Qashqai;Šv. Stepono g. 14, Vilnius 01139, Lietuva;2020-01-09 10:06:33;Šv. Stepono g. 14, Vilnius 01139, Lietuva;2020-01-09 10:06:46;0;1 minute;0;0.00
+5268232;KOR539;Toyota Auris;Kauno g. 3A, Vilnius 03212, Lietuva;2020-01-05 11:12:34;Vilniaus g. 28, Vilnius 01119, Lietuva;2020-01-05 11:23:24;3;11 minutes;2.54;2.54
+5260166;KOR588;Toyota Auris;Šv. Stepono g. 15, Vilnius 01139, Lietuva;2020-01-04 12:02:30;Liejyklos g. 3, Vilnius 01119, Lietuva;2020-01-04 12:08:37;1;7 minutes;1.29;1.29
+5250402;LAO057;Toyota Yaris;Raugyklos g. , Vilnius 01314, Lietuva;2020-01-03 09:58:09;Benediktinių g. , Vilnius 01144, Lietuva;2020-01-03 10:02:57;2;5 minutes;1.01;1.01
+5232772;KOR544;Toyota Auris;J. Jablonskio g. 4, Vilnius 03215, Lietuva;2020-01-01 01:12:59;Panerių g. 39, Vilnius 03209, Lietuva;2020-01-01 01:18:10;1;6 minutes;1.1;1.10
+5223314;LCU172;VW Golf;V. Grybo g. 35, Vilnius 10318, Lietuva;2019-12-31 10:54:33;Lietuvos Spauda, Vilniaus g. , Vilnius 01119, Lietuva;2019-12-31 11:05:16;4;11 minutes;2.69;2.69
+5221510;KJH619;Toyota Yaris;Aguonų g. 26, Vilnius 03213, Lietuva;2019-12-31 03:17:26;V. Grybo g. 32, Vilnius 10318, Lietuva;2019-12-31 03:42:54;9;26 minutes;4.92;4.92
+5214277;LCU237;VW Golf;Šv. Stepono g. 13, Vilnius 01139, Lietuva;2019-12-30 10:32:44;No Address found: 54.6815683, 25.2810483;2019-12-30 10:39:16;2;7 minutes;1.63;1.63
+5211398;KJG814;Toyota Yaris;Kruopų g. 1, Vilnius 01140, Lietuva;2019-12-29 21:44:38;Pakraščio g. 6, Vilnius 11345, Lietuva;2019-12-29 21:51:39;3;7 minutes;1.44;1.44
+5189078;LAO057;Toyota Yaris;Karmelitų g. , Vilnius 01306, Lietuva;2019-12-27 00:37:47;V. Grybo g. 32, Vilnius 10318, Lietuva;2019-12-27 00:45:16;7;8 minutes;1.96;1.96
+5178613;LGI331;Peugeot 308;Kapsų g. 28, Vilnius 02161, Lietuva;2019-12-25 00:23:22;Kauno g. 3A, Vilnius 03212, Lietuva;2019-12-25 00:29:22;3;6 minutes;1.59;1.59
+5173333;KOR582;Toyota Auris;Smėlio g. 20, Vilnius 10322, Lietuva;2019-12-23 23:57:24;Raugyklos g. 23, Vilnius 01140, Lietuva;2019-12-24 00:06:33;6;10 minutes;2.61;2.61
+5172513;KET344;Mini One 5 door;Šilo g. 5A, Vilnius 10322, Lietuva;2019-12-23 21:25:18;Šilo g. 5A, Vilnius 10322, Lietuva;2019-12-23 21:25:29;0;1 minute;0;0.00
+5172438;KET344;Mini One 5 door;Lietuvos Spauda, Vilniaus g. , Vilnius 01119, Lietuva;2019-12-23 21:09:16;Šilo g. 5A, Vilnius 10322, Lietuva;2019-12-23 21:16:48;4;8 minutes;2.12;2.12
+5135857;LDJ095;Mini Convertible;Tramvajų g. 8, Vilnius 10318, Lietuva;2019-12-20 00:47:32;Šv. Stepono g. 11, Vilnius 01139, Lietuva;2019-12-20 00:55:42;6;9 minutes;2.42;2.42
+5135792;LDJ095;Mini Convertible;Šaltinių g. 20, Vilnius 03233, Lietuva;2019-12-20 00:32:33;Tramvajų g. 8, Vilnius 10318, Lietuva;2019-12-20 00:40:08;7;8 minutes;2.57;2.57
+5105165;LCU189;VW Golf;V. Grybo g. 33, Vilnius 10318, Lietuva;2019-12-17 09:55:05;Benediktinių g. , Vilnius 01144, Lietuva;2019-12-17 10:06:49;5;12 minutes;3.03;1.03
+5103163;LCU187;VW Golf;Sodų g. 15, Vilnius 01313, Lietuva;2019-12-17 01:53:12;Tramvajų g. 8, Vilnius 10318, Lietuva;2019-12-17 02:06:36;8;14 minutes;3.67;3.67
+5052464;KMA806;VW Golf;Šilo g. 5A, Vilnius 10322, Lietuva;2019-12-12 09:54:46;Vilniaus g. 24, Vilnius 01119, Lietuva;2019-12-12 10:10:54;4;17 minutes;3.64;3.64
+5016854;LES135;Nissan Qashqai;Smėlio g. 8A, Vilnius 10322, Lietuva;2019-12-08 10:56:32;Liejyklos g. 1, Vilnius 01119, Lietuva;2019-12-08 11:04:25;4;8 minutes;2.32;2.32
+5015005;LAN943;VW Golf;Liejyklos g. 8, Vilnius 01121, Lietuva;2019-12-07 23:47:19;Tramvajų g. 8, Vilnius 10318, Lietuva;2019-12-07 23:52:33;4;6 minutes;1.55;1.55
+4985532;LFU584;Toyota Corolla;V. Grybo g. 32, Vilnius 10318, Lietuva;2019-12-04 22:44:33;Šv. Stepono g. 11, Vilnius 01139, Lietuva;2019-12-04 22:52:31;7;8 minutes;2.57;2.57
+4985492;LFU584;Toyota Corolla;Tuskulėnų g. 12B, Vilnius 09210, Lietuva;2019-12-04 22:31:43;Tramvajų g. 4, Vilnius 10318, Lietuva;2019-12-04 22:36:09;3;5 minutes;1.21;1.21
+4985260;LFU584;Toyota Corolla;Aguonų g. 26, Vilnius 03213, Lietuva;2019-12-04 21:58:10;Tuskulėnų g. 12B, Vilnius 09210, Lietuva;2019-12-04 22:05:01;5;7 minutes;2.08;2.08
+4977187;LCU241;VW Golf;Kauno g. 3A, Vilnius 03212, Lietuva;2019-12-04 00:29:27;V. Grybo g. 32, Vilnius 10318, Lietuva;2019-12-04 00:37:17;7;8 minutes;2.57;2.57
+4885867;LBK133;VW Golf;Kauno g. 3, Vilnius 03212, Lietuva;2019-11-24 00:15:11;Tramvajų g. 8, Vilnius 10318, Lietuva;2019-11-24 00:23:42;6;9 minutes;2.61;2.61
+4862588;LAN890;VW Golf;Raugyklos g. 21, Vilnius 01140, Lietuva;2019-11-21 18:34:02;Laisvės pr. 60, Vilnius 05120, Lietuva;2019-11-21 18:48:38;10;15 minutes;4.35;4.35
+4829298;LFV332;Toyota Corolla;Šilo g. 5A, Vilnius 10322, Lietuva;2019-11-18 09:10:01;Šv. Stepono g. 13, Vilnius 01139, Lietuva;2019-11-18 09:22:03;6;13 minutes;3.18;3.18
+4791008;KJG806;Toyota Yaris;V. Grybo g. 17, Vilnius 10318, Lietuva;2019-11-14 09:33:21;Liejyklos g. 1, Vilnius 01119, Lietuva;2019-11-14 09:42:51;3;10 minutes;1.74;1.74
+4772867;KPD746;Toyota Auris;Smėlio g. 18, Vilnius 10322, Lietuva;2019-11-12 12:04:55;Šv. Stepono g. 9, Vilnius 01139, Lietuva;2019-11-12 12:16:56;9;12 minutes;3.63;3.63
+4759545;LDZ996;Fiat 500C;Raugyklos g. 21, Vilnius 01140, Lietuva;2019-11-10 23:10:12;V. Grybo g. 32, Vilnius 10318, Lietuva;2019-11-10 23:18:25;6;9 minutes;1.98;1.98
+4759394;LDZ996;Fiat 500C;Raugyklos g. , Vilnius 01308, Lietuva;2019-11-10 22:36:27;Raugyklos g. 21, Vilnius 01140, Lietuva;2019-11-10 22:38:19;1;2 minutes;0.43;0.43
+4730927;LGH583;Peugeot 308;A. Smetonos g. 3, Vilnius 01115, Lietuva;2019-11-07 22:26:12;Bistryčios g. 6, Vilnius 10317, Lietuva;2019-11-07 22:34:49;5;9 minutes;2.46;2.46
+4703000;KNG957;Toyota Yaris;Sodų g. 7, Vilnius 01313, Lietuva;2019-11-05 02:38:45;Raugyklos g. 23, Vilnius 01140, Lietuva;2019-11-05 03:02:00;13;24 minutes;5.14;5.14
+4694285;LFV347;Toyota Corolla;Raugyklos g. 21, Vilnius 01140, Lietuva;2019-11-04 05:23:04;V. Grybo g. 33, Vilnius 10318, Lietuva;2019-11-04 05:29:38;6;7 minutes;2.23;2.23
+4694224;LFV347;Toyota Corolla;Geležinkelio g. , Vilnius 01047, Lietuva;2019-11-04 04:56:24;Raugyklos g. 21, Vilnius 01140, Lietuva;2019-11-04 05:05:06;4;9 minutes;2.31;2.31
+4631779;LCU238;VW Golf;K. Kalinausko g. 8, Vilnius 01117, Lietuva;2019-10-27 23:16:59;V. Grybo g. 32, Vilnius 10318, Lietuva;2019-10-27 23:31:04;8;15 minutes;3.86;3.86
+4599761;KTN676;VW Golf;Tramvajų g. 8, Vilnius 10318, Lietuva;2019-10-24 17:52:53;Unnamed Road, Vilnius 01139, Lietuva;2019-10-24 18:05:31;10;13 minutes;3.97;3.97
+4528158;LEF574;Mini Cooper 5 door;Smėlio g. 23, Vilnius 10312, Lietuva;2019-10-17 09:43:40;Liejyklos g. 3, Vilnius 01119, Lietuva;2019-10-17 09:52:06;4;9 minutes;2.12;2.12
+4500537;S2386;Scooter;Gedimino pr. 12, Vilnius 01103, Lietuva;2019-10-14 17:10:53;Naugarduko g. 13, Vilnius 03226, Lietuva;2019-10-14 18:04:20;;54 minutes;5.7;5.70
+4483142;KUO348;VW Polo;Šv. Stepono g. 7, Vilnius 01139, Lietuva;2019-10-12 21:11:55;Šv. Stepono g. 11, Vilnius 01139, Lietuva;2019-10-12 22:28:50;20;1 hour 17 minutes;12.42;12.42
+4249725;KNV156;VW Golf; 24, Vilnius 10301, Lietuva;2019-09-21 19:19:56;Unnamed Road, Vilnius 01139, Lietuva;2019-09-21 19:39:57;11;21 minutes;5.45;5.45
+4228144;KNV179;VW Golf;Širvintų g. 73, Vilnius 09303, Lietuva;2019-09-20 00:35:42;Raugyklos g. , Vilnius 01314, Lietuva;2019-09-20 00:46:02;6;11 minutes;2.8;2.80
+4213096;LDZ992;Fiat 500C;Ukmergės g. 184A, Vilnius 07156, Lietuva;2019-09-18 19:44:40;Raugyklos g. 9, Vilnius 01140, Lietuva;2019-09-18 20:09:50;9;26 minutes;4.92;4.92
+4205956;KUP922;VW Golf;Šaltinių g. 22, Vilnius 03233, Lietuva;2019-09-18 10:50:42;Vytauto Žalakevičiaus g. , Vilnius 10102, Lietuva;2019-09-18 11:10:44;8;21 minutes;5;5.00
+4190049;LER668;Peugeot 308;V. Grybo g. 35, Vilnius 10318, Lietuva;2019-09-16 23:37:21;Raugyklos g. 21, Vilnius 01140, Lietuva;2019-09-16 23:46:27;6;10 minutes;2.61;2.61
+4001145;KNV192;VW Golf;Raugyklos g. , Vilnius 01314, Lietuva;2019-09-01 21:43:21;V. Grybo g. 32, Vilnius 10318, Lietuva;2019-09-01 21:57:09;6;14 minutes;3.56;3.56
+3964246;KOR541;Toyota Auris;Šv. Stepono g. 11, Vilnius 01139, Lietuva;2019-08-30 01:33:03;V. Grybo g. 32, Vilnius 10318, Lietuva;2019-08-30 01:41:07;6;9 minutes;2.42;2.42
+3964068;KOR541;Toyota Auris;Šaltinių g. 22, Vilnius 03233, Lietuva;2019-08-30 00:18:48;Šv. Stepono g. 11, Vilnius 01139, Lietuva;2019-08-30 01:19:04;7;1 hour 1 minute;7.24;7.24
+3954054;KOR513;Toyota Auris;Kauno g. 3A, Vilnius 03212, Lietuva;2019-08-29 10:33:24;Vytauto Žalakevičiaus g. , Vilnius 10102, Lietuva;2019-08-29 11:02:50;13;30 minutes;7.46;7.46
+3950846;LAH197;Nissan Qashqai;Vytauto Žalakevičiaus g. , Vilnius 10102, Lietuva;2019-08-28 23:07:28;Raugyklos g. 21, Vilnius 01140, Lietuva;2019-08-28 23:33:00;11;26 minutes;7.38;7.38
+3937814;LDJ109;Mini Convertible;Lizdeikos g. , Vilnius 10200, Lietuva;2019-08-27 23:11:43;V. Grybo g. 32, Vilnius 10318, Lietuva;2019-08-27 23:44:21;17;33 minutes;10.48;10.48
+3926082;KPD769;Toyota Auris;Radvilų g. 11, Vilnius 01101, Lietuva;2019-08-27 00:33:08;V. Grybo g. 32, Vilnius 10318, Lietuva;2019-08-27 00:38:06;4;5 minutes;1.55;1.55
+3926079;KZC357;BMW X1;Tilto g. 13, Vilnius 01101, Lietuva;2019-08-27 00:30:30;Tilto g. 13, Vilnius 01101, Lietuva;2019-08-27 00:31:38;0;2 minutes;0.31;0.31
+3914494;KET319;Mini One 5 door;Šv. Stepono g. 9, Vilnius 01139, Lietuva;2019-08-26 02:52:20;Šv. Stepono g. 9, Vilnius 01139, Lietuva;2019-08-26 02:53:43;0;2 minutes;0.19;0.19
+3914460;KET319;Mini One 5 door;Šv. Stepono g. 9, Vilnius 01139, Lietuva;2019-08-26 02:38:51;Šv. Stepono g. 9, Vilnius 01139, Lietuva;2019-08-26 02:39:43;0;1 minute;0.19;0.19
+3913241;KET319;Mini One 5 door;Nemenčinės pl. 2, Vilnius 10102, Lietuva;2019-08-25 22:18:59;Šv. Stepono g. 9, Vilnius 01139, Lietuva;2019-08-26 00:59:05;39;2 hours 41 minutes;21.6;21.60
+3905302;LAN964;VW Golf;Pylimo g. 61, Vilnius 02100, Lietuva;2019-08-25 10:39:47;Vytauto Žalakevičiaus g. , Vilnius 10102, Lietuva;2019-08-25 11:06:29;12;27 minutes;6.93;6.93
+3893257;KJU271;VW Golf;Šv. Stepono g. 11, Vilnius 01139, Lietuva;2019-08-24 01:44:59;V. Grybo g. 32, Vilnius 10318, Lietuva;2019-08-24 02:01:23;7;17 minutes;4.09;4.09
+3879124;LCU189;VW Golf;Bistryčios g. 3, Vilnius 10317, Lietuva;2019-08-23 01:35:38;Bistryčios g. 3, Vilnius 10317, Lietuva;2019-08-23 01:35:53;0;1 minute;0;0.00
+3879111;LCU189;VW Golf;Šilo g. 5A, Vilnius 10322, Lietuva;2019-08-23 01:19:48;Bistryčios g. 3, Vilnius 10317, Lietuva;2019-08-23 01:34:54;7;16 minutes;3.9;3.90
+3860967;KNG935;Toyota Auris;Šv. Stepono g. 9, Vilnius 01139, Lietuva;2019-08-21 16:17:47;Vytauto Žalakevičiaus g. , Vilnius 10102, Lietuva;2019-08-21 16:35:30;10;18 minutes;4.92;4.92
+3854509;KOK684;VW Golf;Lentupio g. 15, Vilnius 10218, Lietuva;2019-08-20 22:27:42;Šv. Stepono g. 9, Vilnius 01139, Lietuva;2019-08-20 22:48:03;12;21 minutes;5.6;5.60
+3835296;KSU714;Toyota Yaris;Naugarduko g. 2A, Vilnius 01141, Lietuva;2019-08-19 14:55:00;Punsko g. 6, Vilnius 01312, Lietuva;2019-08-20 15:06:44;167;1 day 12 minutes;43.15;41.15
+3788573;LCY103;Mini Cooper 5 door;Sodų g. 5, Vilnius 01313, Lithuania;2019-08-15 10:36:18;Žolyno g. 2, Vilnius 10208, Lithuania;2019-08-15 11:24:22;18;49 minutes;7.95;7.95
+3763008;KOK688;VW Golf;St. Catherine church in Vilnius, Vilnius 01119, Lithuania;2019-08-13 01:23:53;Šv. Stepono g. 9, Vilnius 01139, Lithuania;2019-08-13 01:33:47;3;10 minutes;2.35;2.35
+3722183;JSO945;;Polocko g. 4b-10, Vilnius 01204, Lithuania;2019-08-09 15:15:13;Šaltinių g. 26, Vilnius 03233, Lithuania;2019-08-09 15:46:39;15;32 minutes;8.14;8.14
+3717102;KJP051;VW Golf;Mindaugo g. 11, Vilnius 03225, Lithuania;2019-08-09 01:50:21;Raugyklos g. 22, Vilnius 01140, Lithuania;2019-08-09 01:53:59;2;4 minutes;1.06;1.06
+3717065;KJP051;VW Golf;Vingrių g. 35, Vilnius 01309, Lithuania;2019-08-09 01:23:30;Mindaugo g. 11, Vilnius 03225, Lithuania;2019-08-09 01:27:48;1;5 minutes;0.91;0.91
+3712992;KMS402;Toyota Auris;Nemenčinės pl. 2, Vilnius 10221, Lithuania;2019-08-08 17:31:42;Raugyklos g. 19, Vilnius 01140, Lithuania;2019-08-08 17:48:36;8;17 minutes;4.43;4.43
+3709516;KHJ134;Toyota Yaris;Šaltinių g. 26, Vilnius 03233, Lithuania;2019-08-08 12:01:40;Valakupių g. 5, Vilnius 10102, Lithuania;2019-08-08 12:16:41;9;15 minutes;3.42;3.42
+3685054;KUN190;Peugeot 308;Raugyklos g. 23, Vilnius 01140, Lithuania;2019-08-06 10:55:53;Valakupių g. 5, Vilnius 10102, Lithuania;2019-08-06 11:24:12;18;29 minutes;8.02;8.02
+3676457;KPM995;VW Polo;Sodų g. 21, Vilnius 03211, Lithuania;2019-08-05 13:56:48;Šv. Stepono g. 9, Vilnius 01139, Lithuania;2019-08-05 14:02:41;1;6 minutes;1.29;1.29
+3655067;KSU703;Toyota Yaris;Jurginų g. 24, Klaipėda 91205, Lithuania;2019-08-03 01:28:38;Taikos pr. 44, Klaipėda 91217, Lithuania;2019-08-03 06:54:23;18;5 hours 26 minutes;25.24;25.24
+3627563;KPJ949;Toyota C-HR;Stotis, Vilnius, Lithuania;2019-07-31 17:39:04;Valakupių g. 5, Vilnius 10102, Lithuania;2019-07-31 17:57:18;9;19 minutes;4.77;4.77
+3620661;KNV174;VW Golf;Savanorių pr. 49, Vilnius 03130, Lithuania;2019-07-31 02:51:26;Raugyklos g. 22, Vilnius 01140, Lithuania;2019-07-31 02:58:36;4;8 minutes;1.93;1.93
+3619983;KOK607;Toyota Auris;Šaltinių g. 36, Vilnius 03233, Lithuania;2019-07-30 23:16:01;Algirdo g. 28, Vilnius 03218, Lithuania;2019-07-30 23:19:05;1;4 minutes;0.72;0.72
+3619425;LAO048;Toyota Yaris;Kryžiokų Sodų 12-oji g. 1, Vilnius 08445, Lithuania;2019-07-30 22:00:04;Žalgirio g. 105, Vilnius 08216, Lithuania;2019-07-30 22:16:05;12;17 minutes;3.96;3.96
+3617088;S0820;Scooter;Vokiečių g. 26, Vilnius 01130, Lithuania;2019-07-30 18:30:14;Rūdninkų g. 15, Vilnius 01308, Lithuania;2019-07-30 18:33:01;;3 minutes;0.7;0.70
+3588412;KMA810;VW Golf;Etmonų g. 4, Vilnius 01305, Lithuania;2019-07-27 22:38:55;Visų Šventųjų g. 6, Vilnius 01306, Lithuania;2019-07-27 22:49:09;4;11 minutes;2.5;2.50
+3581804;KOK688;VW Golf;62, Vilnius 10300, Lithuania;2019-07-27 01:10:54;Šv. Stepono g. 9, Vilnius 01139, Lithuania;2019-07-27 01:20:28;6;10 minutes;2.8;2.80
+3572828;KDT276;;Šaltinių g. 22, Vilnius 03213, Lithuania;2019-07-26 10:48:00;Valakupių g. 5, Vilnius 10102, Lithuania;2019-07-26 11:11:51;11;24 minutes;6.21;6.21
+3566739;KOK629;Toyota Auris;Geležinkelio g. 16, Vilnius 02100, Lithuania;2019-07-25 17:27:02;Lizdeikos st., Vilnius 10102, Lithuania;2019-07-25 17:43:10;9;17 minutes;4.39;4.39
+3559657;KJU271;VW Golf;Nemenčinės pl. 2, Vilnius 10221, Lithuania;2019-07-25 00:34:52;Raugyklos g. 17, Vilnius 01140, Lithuania;2019-07-25 01:03:13;11;29 minutes;6.97;6.97
+3555280;KPD742;Toyota Auris;Trakų g. 11, Vilnius 01132, Lithuania;2019-07-24 17:39:44;Valakupių g. 5, Vilnius 10102, Lithuania;2019-07-24 18:00:32;12;21 minutes;5.79;5.79
+3548348;KET317;Mini One 5 door;Pylimo g. 47, Vilnius 01137, Lithuania;2019-07-24 05:03:12;Raugyklos g. 19, Vilnius 01140, Lithuania;2019-07-24 05:13:23;5;11 minutes;2.65;2.65
+3548331;KET317;Mini One 5 door;Pylimo g. 47, Vilnius 01137, Lithuania;2019-07-24 04:58:46;Pylimo g. 47, Vilnius 01137, Lithuania;2019-07-24 04:59:04;0;1 minute;0;0.00
+3530594;KPJ557;Toyota Auris;Raugyklos g. 17, Vilnius 01140, Lithuania;2019-07-22 13:59:18;Šv. Stepono g. 18, Vilnius 01138, Lithuania;2019-07-22 14:45:43;6;47 minutes;7.09;7.09
+3530568;KPJ557;Toyota Auris;Raugyklos g. 17, Vilnius 01140, Lithuania;2019-07-22 13:54:11;Raugyklos g. 17, Vilnius 01140, Lithuania;2019-07-22 13:54:20;0;1 minute;0;0.00
+3518072;KUP901;VW Golf;Šv. Stepono g. 11, Vilnius 01139, Lithuania;2019-07-21 00:41:16;Šv. Stepono g. 9, Vilnius 01139, Lithuania;2019-07-21 01:08:49;3;28 minutes;5.7;5.70
+3499430;KGE566;Mini One 5 door;Arklių g. 11, Vilnius 01305, Lithuania;2019-07-19 10:55:34;Valakupių g. 5, Vilnius 10102, Lithuania;2019-07-19 11:10:57;9;16 minutes;4.2;4.20
+3492083;KPJ570;Toyota Auris;Pylimo g. 49, Vilnius 01137, Lithuania;2019-07-18 17:33:39;Valakupių g. 5, Vilnius 10102, Lithuania;2019-07-18 17:49:30;9;16 minutes;4.39;4.39
+3476724;LAN889;VW Golf;Klinikų g. 2, Vilnius 10326, Lithuania;2019-07-17 10:12:31;g 01140, Raugyklos g. 4a, Vilnius 01140, Lithuania;2019-07-17 10:24:14;7;12 minutes;3.33;3.33
+3475896;LAN889;VW Golf;Vingrių g. 35, Vilnius 01309, Lithuania;2019-07-17 08:57:10;Klinikų g. 2, Vilnius 10326, Lithuania;2019-07-17 09:10:57;6;14 minutes;3.56;3.56
+3472028;LAO049;Toyota Yaris;Antakalnio g. 42, Vilnius 10304, Lithuania;2019-07-16 18:44:18;Šv. Stepono g. 9, Vilnius 01139, Lithuania;2019-07-16 19:26:24;6;43 minutes;5.68;5.68
+3471647;LAO049;Toyota Yaris;Ozo g. 25, Vilnius 08217, Lithuania;2019-07-16 18:15:47;Antakalnio g. 42, Vilnius 10304, Lithuania;2019-07-16 18:35:52;6;21 minutes;3.78;3.78
+3470501;KUO377;VW Polo;Pylimo g. 55, Vilnius 01137, Lithuania;2019-07-16 16:37:12;Ozo g. 25, Vilnius 08217, Lithuania;2019-07-16 17:01:38;6;25 minutes;5.46;5.46
+3463983;JSO947;;Aguonų g. 20, Vilnius 01138, Lithuania;2019-07-16 00:09:19;Liejyklos g. 110, Vilnius 01402, Lithuania;2019-07-16 00:14:44;1;6 minutes;1.1;1.10
+3434638;LBH602;VW Polo;Šilo g. 5, Vilnius 10322, Lithuania;2019-07-12 23:55:58;Šv. Stepono g. 9, Vilnius 01139, Lithuania;2019-07-13 00:17:32;10;22 minutes;5.68;5.68
+3430737;LCU232;VW Golf;Unnamed Road, 03211, Lithuania;2019-07-12 17:50:28;Valakupių g. 5, Vilnius 10102, Lithuania;2019-07-12 18:03:29;8;14 minutes;3.67;3.67
+3398181;KJH642;Toyota Yaris;Raugyklos g. 22, Vilnius 01140, Lithuania;2019-07-09 17:34:52;Lizdeikos st., Vilnius 10102, Lithuania;2019-07-09 17:57:41;9;23 minutes;4.62;4.62
+3397375;KJH642;Toyota Yaris;Stotis, Vilnius 02100, Lithuania;2019-07-09 16:41:09;Raugyklos g. 22, Vilnius 01140, Lithuania;2019-07-09 17:02:14;6;22 minutes;3.93;3.93
+3391083;LAN920;VW Golf;Korpusas 3A, J. Balčikonio g. 7, Vilnius 08314, Lithuania;2019-07-09 00:21:40;Raugyklos g. 23, Vilnius 01140, Lithuania;2019-07-09 00:44:02;12;23 minutes;5.98;5.98
+3390245;KBG076;VW Golf;Kauno g. 1, Vilnius 01314, Lithuania;2019-07-08 21:02:49;Ozo g. 12, Vilnius 08200, Lithuania;2019-07-08 21:21:23;11;19 minutes;5.26;5.26
+3364040;KUN193;Peugeot 308;Šv. Stepono g. 9, Vilnius 01138, Lithuania;2019-07-05 21:05:55;Šv. Stepono g. 9, Vilnius 01139, Lithuania;2019-07-05 21:51:04;15;46 minutes;8.44;8.44
+3351372;KPD792;Toyota Auris;M. K. Čiurlionio g. 5, Kaunas 44354, Lithuania;2019-07-04 19:13:26;Rotušės a. 3, Kaunas 44280, Lithuania;2019-07-04 19:22:37;4;10 minutes;2.31;2.31
+3312811;S1105;Scooter;Gedimino pr. 9A, Vilnius 01105, Lithuania;2019-07-01 08:02:50;Gedimino pr. 9A, Vilnius 01105, Lithuania;2019-07-01 08:13:29;;11 minutes;1.5;1.50
+3312407;S1406;Scooter;Šventaragio g. 1c, Vilnius 01143, Lithuania;2019-07-01 06:58:11;Gedimino pr. 13, Vilnius 01103, Lithuania;2019-07-01 07:18:58;;21 minutes;2.5;2.50
+3311525;KPJ567;Toyota Auris;Šv. Stepono g. 18, Vilnius 01138, Lithuania;2019-07-01 00:10:34;Rotušės a. 27, Vilnius 01128, Lithuania;2019-07-01 01:04:33;26;54 minutes;9.15;9.15
+3311361;KPJ567;Toyota Auris;Šv. Stepono g. 18, Vilnius 01138, Lithuania;2019-06-30 23:37:01;Šv. Stepono g. 18, Vilnius 01138, Lithuania;2019-06-30 23:37:36;0;1 minute;0.19;0.19
+3311219;KPJ567;Toyota Auris;Švyturio g. 19-68, Vilnius 10212, Lithuania;2019-06-30 23:10:10;Šv. Stepono g. 18, Vilnius 01138, Lithuania;2019-06-30 23:24:18;10;15 minutes;4.16;4.16
+3304545;LAN889;VW Golf;Raugyklos g. 19, Vilnius 01140, Lithuania;2019-06-30 10:45:22;Valakupių g. 5, Vilnius 10102, Lithuania;2019-06-30 11:04:44;11;20 minutes;5.26;5.26
+3298642;KOS448;Toyota Auris;Kauno g. 1a, Vilnius 01314, Lithuania;2019-06-29 15:59:08;Valakupių g. 5, Vilnius 10102, Lithuania;2019-06-29 16:10:50;8;12 minutes;3.48;3.48
+3282335;KBG129;VW Golf;Kruopų g. 7, Vilnius 01140, Lithuania;2019-06-28 00:00:49;Antakalnio g. 65, Vilnius 10207, Lithuania;2019-06-28 00:10:10;8;10 minutes;2.91;2.91
+3279883;LBV485;Peugeot 308;Vokiečių g. 13, Vilnius 01130, Lithuania;2019-06-27 19:12:13;Šv. Stepono g. 9, Vilnius 01139, Lithuania;2019-06-27 19:15:54;0;4 minutes;0.76;0.76
+3265774;KOK611;Toyota Auris;Stotis, Vilnius 03211, Lithuania;2019-06-26 15:29:03;Antakalnio g. 57, Vilnius 10207, Lithuania;2019-06-26 15:39:20;7;11 minutes;2.95;2.95
+3250823;LAN908;VW Golf;Šaltinių g. 26, Vilnius 03233, Lithuania;2019-06-25 10:37:59;Valakupių g. 5, Vilnius 10102, Lithuania;2019-06-25 10:57:50;9;20 minutes;5.15;5.15
+3247440;JSO953;;Įsruties g. 2, Vilnius 06218, Lithuania;2019-06-24 22:35:35;Kauno g. 1, Vilnius 01314, Lithuania;2019-06-24 22:46:38;11;12 minutes;3.74;3.74
+3246350;JSO953;;Vingrių g. 23, Vilnius 01309, Lithuania;2019-06-24 20:02:16;Įsruties g. 2, Vilnius 06218, Lithuania;2019-06-24 20:14:30;10;13 minutes;3.78;3.78
+3234692;KOR463;Toyota Auris;Stotis, Vilnius, Lithuania;2019-06-23 12:51:20;Valakupių g. 5, Vilnius 10102, Lithuania;2019-06-23 13:01:14;9;10 minutes;3.25;3.25
+3227013;LAN886;VW Golf;Kauno g. 1, Vilnius 01314, Lithuania;2019-06-22 13:39:12;Valakupių g. 5, Vilnius 10102, Lithuania;2019-06-22 13:57:27;11;19 minutes;5.07;5.07
+3219067;KOR556;Toyota Auris;Geležinkelio g. 16, Vilnius 02100, Lithuania;2019-06-21 17:32:46;Valakupių g. 5, Vilnius 10102, Lithuania;2019-06-21 17:48:18;9;16 minutes;4.39;4.39
+3194954;KSU704;Toyota Yaris;Žirmūnų g. 2, Vilnius 09214, Lithuania;2019-06-19 18:41:54;Lizdeikos st., Vilnius 10102, Lithuania;2019-06-19 18:50:12;4;9 minutes;1.72;1.72
+3181407;KPD743;Toyota Auris;Stotis, Vilnius 03211, Lithuania;2019-06-18 17:06:57;Meškeriotojų g. 33, Vilnius 10100, Lithuania;2019-06-18 17:25:41;11;19 minutes;5.26;5.26
+3170108;KNV204;VW Golf;Žolyno g. 11A, Vilnius 10210, Lithuania;2019-06-17 17:36:49;Raugyklos g. 23, Vilnius 01140, Lithuania;2019-06-17 17:54:21;8;18 minutes;4.62;4.62
+3154120;KBG089;VW Golf;Mindaugo g. 11, Vilnius 03225, Lithuania;2019-06-16 01:00:02;Šv. Stepono g. 9, Vilnius 01138, Lithuania;2019-06-16 01:03:02;1;3 minutes;0.72;0.72
+3153890;KBG089;VW Golf;2-asis paplūdimys, Vilnius 10100, Lithuania;2019-06-16 00:13:04;Mindaugo g. 11, Vilnius 03225, Lithuania;2019-06-16 00:34:14;13;22 minutes;5.94;5.94
+3147197;KBG094;VW Golf;Šv. Stepono g. 18, Vilnius 01138, Lithuania;2019-06-15 12:49:16;Meškeriotojų g. 33, Vilnius 10100, Lithuania;2019-06-15 13:05:41;11;17 minutes;4.69;4.69
+3143047;KPJ579;Toyota Auris;Meškeriotojų g. 33, Vilnius 10100, Lithuania;2019-06-14 23:18:30;Šv. Stepono g. 9, Vilnius 01139, Lithuania;2019-06-14 23:45:42;12;28 minutes;6.93;6.93
+3138436;KPJ579;Toyota Auris;Ozo g. 25, Vilnius 08217, Lithuania;2019-06-14 17:44:26;Meškeriotojų g. 33, Vilnius 10100, Lithuania;2019-06-14 18:01:28;8;18 minutes;4.43;4.43
+3135737;KBA596;VW Golf;Kruopų g. 3, Vilnius 01140, Lithuania;2019-06-14 14:51:04;Ozo g. 25, Vilnius 08217, Lithuania;2019-06-14 15:04:43;6;14 minutes;3.56;3.56
+3110224;KMS406;Toyota Yaris;Geležinkelio g. 16, Vilnius 02100, Lithuania;2019-06-12 16:49:15;Meškeriotojų g. 33, Vilnius 10100, Lithuania;2019-06-12 17:08:07;14;19 minutes;4.67;4.67
+3104661;LAN891;VW Golf;Aguonų g. 10, Vilnius 03213, Lithuania;2019-06-12 09:35:01;Kauno g. 1, Vilnius 01314, Lithuania;2019-06-12 10:06:06;5;32 minutes;6.64;6.64
+3098550;KPD761;Toyota Auris;Seinų g. 3, Vilnius 02100, Lithuania;2019-06-11 18:00:59;Vaidilutės g. 79, Vilnius 10100, Lithuania;2019-06-11 18:18:11;14;18 minutes;5.33;5.33
+3095573;KSU714;Toyota Yaris;V. Grybo g. 34, Vilnius 10318, Lithuania;2019-06-11 14:29:16;Raugyklos g. 19, Vilnius 01140, Lithuania;2019-06-11 14:40:30;9;12 minutes;2.82;2.82
+3093910;KPD758;Toyota Auris;Šv. Stepono g. 15, Vilnius 01139, Lithuania;2019-06-11 12:12:27;Antakalnio g. 57, Vilnius 10207, Lithuania;2019-06-11 12:30:23;6;18 minutes;4.32;4.32
+3086677;S1422;Scooter;Žaliasis tiltas, Vilnius, Lithuania;2019-06-10 18:34:18;Stotis, Vilnius 02100, Lithuania;2019-06-10 20:14:03;;1 hour 40 minutes;10.39;10.39
+3053990;KMS374;Toyota Yaris;Stotis, Vilnius 02100, Lithuania;2019-06-07 18:02:57;Meškeriotojų g. 33, Vilnius 10100, Lithuania;2019-06-07 18:20:32;13;18 minutes;4.39;4.39
+2991499;LAO042;Toyota Yaris;Geležinkelio g. 16, Vilnius 02100, Lithuania;2019-06-02 12:46:54;Vaidilutės g. 79, Vilnius 10100, Lithuania;2019-06-02 13:00:07;10;14 minutes;3.25;3.25
+2988294;KUO336;VW Polo;Aukštaičių g., Vilnius 11341, Lithuania;2019-06-01 22:41:08;Meškeriotojų g. 33, Vilnius 10100, Lithuania;2019-06-01 23:07:49;12;27 minutes;6.93;6.93
+2983840;S1453;Scooter;Raugyklos g. 19, Vilnius 01140, Lithuania;2019-06-01 15:50:10;Bokšto g. 19, Vilnius 01126, Lithuania;2019-06-01 15:55:02;;5 minutes;0.9;0.90
+2983581;S1453;Scooter;O. Šimaitės g., Vilnius 11341, Lithuania;2019-06-01 15:29:15;Raugyklos g. 3, Vilnius 01308, Lithuania;2019-06-01 15:36:34;;8 minutes;1.1;1.10
+2963312;S1454;Scooter;Pylimo g. 21, Vilnius 01141, Lithuania;2019-05-30 19:38:27;Klaipėdos g. 22, Vilnius 01117, Lithuania;2019-05-30 19:50:22;;12 minutes;1.6;1.60
+2963132;S1454;Scooter;Odminių g. 1, Vilnius 01103, Lithuania;2019-05-30 19:23:55;Pylimo g. 21, Vilnius 01141, Lithuania;2019-05-30 19:30:06;;7 minutes;1;1.00
+2942039;KJG801;Toyota Yaris;Mindaugo g. 11, Vilnius 03225, Lithuania;2019-05-28 23:37:39;Raugyklos g. 23, Vilnius 01140, Lithuania;2019-05-28 23:41:47;1;5 minutes;0.69;0.69
+2941916;KJG801;Toyota Yaris;Šilo g. 20, Vilnius 10317, Lithuania;2019-05-28 23:09:01;Mindaugo g. 11, Vilnius 03225, Lithuania;2019-05-28 23:17:37;6;9 minutes;2.04;2.04
+2931443;KPD784;Toyota Auris;Bistryčios g. 28, Vilnius 10321, Lithuania;2019-05-28 06:10:42;Šv. Stepono g. 11, Vilnius 01139, Lithuania;2019-05-28 06:18:03;6;8 minutes;2.16;2.16
+2919689;LAO042;Toyota Yaris;Šilo g. 22, Vilnius 10317, Lithuania;2019-05-27 00:09:22;Kauno g. 3a, Vilnius 01310, Lithuania;2019-05-27 00:27:51;10;19 minutes;3.82;3.82
+2919556;KUN192;Peugeot 308;Šaltinių g. 17, Vilnius 03214, Lithuania;2019-05-26 23:42:00;V. Grybo g. 32 / Tramvajų g. 10, Vilnius 10318, Lithuania;2019-05-26 23:52:56;6;11 minutes;2.88;2.88
+2919102;LAT068;VW Polo;Vaidilutės g. 79, Vilnius 10100, Lithuania;2019-05-26 22:18:24;Kauno g. 1, Vilnius 01314, Lithuania;2019-05-26 22:49:53;13;32 minutes;6.94;6.94
+2918775;LIV830;Toyota Auris;2-asis paplūdimys, Vilnius 10100, Lithuania;2019-05-26 21:19:29;V. Druskio g. 4A, Vilnius 04305, Lithuania;2019-05-26 22:14:42;30;56 minutes;9.49;9.49
+2913920;LAT068;VW Polo;Kruopų g. 3, Vilnius 01140, Lithuania;2019-05-26 13:57:54;Vaidilutės g. 79, Vilnius 10100, Lithuania;2019-05-26 14:12:46;11;15 minutes;4.35;4.35
+2903927;KOK602;Toyota Yaris;Bokšto g. 19, Vilnius 01126, Lithuania;2019-05-25 13:25:02;Vaidilutės g. 79, Vilnius 10100, Lithuania;2019-05-25 13:37:30;9;13 minutes;2.85;2.85
+2896262;KJH637;Toyota Yaris;Stotis, Vilnius, Lithuania;2019-05-24 18:02:17;Vaidilutės g. 79, Vilnius 10100, Lithuania;2019-05-24 18:17:24;11;16 minutes;3.53;3.53
+2873708;KNV209;VW Golf;Meškeriotojų g. 33, Vilnius 10100, Lithuania;2019-05-22 21:10:34;Kauno g. 1, Vilnius 01314, Lithuania;2019-05-22 21:25:10;12;15 minutes;4.5;4.50
+2863780;KDT276;;V. Grybo g. 35, Vilnius 10318, Lithuania;2019-05-22 06:22:49;Kauno g. 1, Vilnius 01314, Lithuania;2019-05-22 06:31:51;6;10 minutes;2.52;2.52
+2818796;KBG081;VW Golf;Liejyklos g. 10, Vilnius 01122, Lithuania;2019-05-17 23:17:10;Bistryčios g. 17, Vilnius 10321, Lithuania;2019-05-17 23:23:50;4;7 minutes;1.86;1.86
+2807178;LBK140;VW Golf;V. Grybo g. 33, Vilnius 10318, Lithuania;2019-05-17 06:15:22;Šv. Stepono g. 18, Vilnius 01138, Lithuania;2019-05-17 06:23:30;7;9 minutes;2.49;2.49
+2806114;LBK140;VW Golf;Kernavės g. 84, Vilnius 08216, Lithuania;2019-05-16 22:23:10;V. Grybo g. 33, Vilnius 10318, Lithuania;2019-05-16 22:33:54;7;11 minutes;3.03;3.03
+2804816;KJP075;VW Golf;Ankštoji g. 2, Vilnius 01109, Lithuania;2019-05-16 19:56:57;Ozo g. 10, Vilnius 08200, Lithuania;2019-05-16 20:04:46;6;8 minutes;2.34;2.34
+2804810;KUP910;VW Golf;Pamėnkalnio g. 27, Vilnius 01113, Lithuania;2019-05-16 19:53:22;Pamėnkalnio g. 27, Vilnius 01113, Lithuania;2019-05-16 19:53:40;0;1 minute;0;0.00
+2804787;KUP910;VW Golf;Pamėnkalnio g. 27, Vilnius 01113, Lithuania;2019-05-16 19:51:27;Pamėnkalnio g. 27, Vilnius 01113, Lithuania;2019-05-16 19:53:01;0;2 minutes;0.36;0.00
+2804778;KUP910;VW Golf;Pamėnkalnio g. 27, Vilnius 01113, Lithuania;2019-05-16 19:50:49;Pamėnkalnio g. 27, Vilnius 01113, Lithuania;2019-05-16 19:51:00;0;1 minute;0;0.00
+2804770;KUP910;VW Golf;Pamėnkalnio g. 27, Vilnius 01113, Lithuania;2019-05-16 19:49:42;Pamėnkalnio g. 27, Vilnius 01113, Lithuania;2019-05-16 19:50:12;0;1 minute;0;0.00
+2804763;KUP910;VW Golf;Pamėnkalnio g. 27, Vilnius 01113, Lithuania;2019-05-16 19:49:06;Pamėnkalnio g. 27, Vilnius 01113, Lithuania;2019-05-16 19:49:14;0;1 minute;0;0.00
+2804689;KUP910;VW Golf;Pamėnkalnio g. 27, Vilnius 01113, Lithuania;2019-05-16 19:48:44;Pamėnkalnio g. 27, Vilnius 01113, Lithuania;2019-05-16 19:48:52;0;1 minute;0;0.00
+2804320;S0625;Scooter;Pylimo g. 31, Vilnius 01309, Lithuania;2019-05-16 19:15:15;M.K.Čiurlionio g. 9 / V.Kudirkos g. 2, Vilnius 03104, Lithuania;2019-05-16 19:42:49;;28 minutes;3.2;3.20
+2795714;LAN963;VW Golf;V. Grybo g. 43, Vilnius 10326, Lithuania;2019-05-16 06:42:41;Gerosios Vilties g. 29, Vilnius 03140, Lithuania;2019-05-16 06:55:49;10;14 minutes;3.84;3.84
+2783962;LAN961;VW Golf;Antakalnio g. 55, Vilnius 10325, Lithuania;2019-05-15 06:11:35;Naugarduko g. 129, Vilnius 03151, Lithuania;2019-05-15 06:26:12;10;15 minutes;4.2;4.20
+2781657;KSU426;VW Polo;Unnamed Road, 01139, Lithuania;2019-05-14 19:27:35;V. Grybo g. 33, Vilnius 10318, Lithuania;2019-05-14 19:39:00;9;12 minutes;3.33;3.33
+2781290;KSU426;VW Polo;V. Grybo g. 21, Vilnius 10317, Lithuania;2019-05-14 18:51:48;Unnamed Road, 01139, Lithuania;2019-05-14 19:05:31;6;14 minutes;3.42;3.42
+2760728;KMF455;VW Golf;Suvalkų g. 4, Vilnius 03106, Lithuania;2019-05-12 21:00:34;V. Grybo g. 32 / Tramvajų g. 10, Vilnius 10318, Lithuania;2019-05-12 21:08:58;6;9 minutes;2.34;2.34
+2759893;KNS486;VW Polo;V. Grybo g. 21, Vilnius 10317, Lithuania;2019-05-12 19:08:54;Šv. Stepono g. 13, Vilnius 01139, Lithuania;2019-05-12 19:21:05;5;13 minutes;2.91;2.91
+2741630;LAT068;VW Polo;Mindaugo g. 11, Vilnius 03225, Lithuania;2019-05-11 00:54:12;V. Grybo g. 32, Vilnius 10318, Lithuania;2019-05-11 01:05:32;7;12 minutes;3.03;3.03
+2741532;LAT068;VW Polo;Kauno g. 3a, Vilnius 01310, Lithuania;2019-05-11 00:38:48;Mindaugo g. 11, Vilnius 03225, Lithuania;2019-05-11 00:41:20;1;3 minutes;0.69;0.69
+2735553;KSU708;Toyota Yaris;Volungės g. 2, Vilnius 10318, Lithuania;2019-05-10 16:40:05;Kauno g. 1, Vilnius 01314, Lithuania;2019-05-10 16:50:19;6;11 minutes;2.18;2.18
+2728400;KSU701;Toyota Yaris;Savanorių pr. 54, Vilnius 03135, Lithuania;2019-05-10 00:27:34;V. Grybo g. 32 / Tramvajų g. 10, Vilnius 10318, Lithuania;2019-05-10 00:39:41;8;13 minutes;2.72;2.72
+2727639;KNV138;VW Golf;V. Grybo g. 33, Vilnius 10318, Lithuania;2019-05-09 21:57:35;Savanorių pr. 38, Vilnius 03121, Lithuania;2019-05-09 22:18:11;10;21 minutes;5.28;5.28
+2727532;KNV138;VW Golf;Stotis, Vilnius, Lithuania;2019-05-09 21:32:57;V. Grybo g. 33, Vilnius 10318, Lithuania;2019-05-09 21:42:25;9;10 minutes;2.97;2.97
+2717290;LAN968;VW Golf;Stotis, Vilnius, Lithuania;2019-05-09 01:52:45;V. Grybo g. 32 / Tramvajų g. 10, Vilnius 10318, Lithuania;2019-05-09 01:59:00;6;7 minutes;1.98;1.98
+2711832;KSU702;Toyota Yaris;Kareivių g. 11, Vilnius 09109, Lithuania;2019-05-08 14:56:09;Raugyklos g. 19, Vilnius 01140, Lithuania;2019-05-08 15:21:14;13;26 minutes;5.19;5.19
+2699621;KBG081;VW Golf;102 8, Vilnius 10308, Lithuania;2019-05-07 12:54:17;Antakalnio g. 23A, Vilnius 10312, Lithuania;2019-05-07 13:30:30;19;37 minutes;9.04;9.04
+2679567;S0050;Scooter;Šventaragio g. 1c, Vilnius 01143, Lithuania;2019-05-05 12:11:22;Šventaragio g. 2, Vilnius 01122, Lithuania;2019-05-05 12:21:04;;10 minutes;1.4;1.40
+2667525;KTT986;VW Polo;Šv. Stepono g. 17, Vilnius 01139, Lithuania;2019-05-03 21:49:11;Kauno g. 1, Vilnius 01314, Lithuania;2019-05-03 22:40:34;21;52 minutes;9.34;9.34
+2625500;KJP047;VW Golf;Sausio 13-osios g. 37, Vilnius 04349, Lithuania;2019-04-29 22:34:15;Mindaugo g. 11, Vilnius 03225, Lithuania;2019-04-29 22:41:58;7;8 minutes;2.49;2.49
+2625358;KJP047;VW Golf;Vokiečių g. 9, Vilnius 01130, Lithuania;2019-04-29 22:05:57;Sausio 13-osios g. 37, Vilnius 04349, Lithuania;2019-04-29 22:25:10;10;20 minutes;4.92;4.92
+2488153;KDF522;Toyota Yaris;Algirdo g. 37A, Vilnius 03217, Lithuania;2019-04-15 21:23:19;Unnamed Road, 01139, Lithuania;2019-04-15 21:30:57;4;8 minutes;1.64;1.64
+2477332;KNS486;VW Polo;Paupio g. 18, Vilnius 11341, Lithuania;2019-04-14 17:57:59;Raugyklos g. 21, LT-01140, Vilnius 01140, Lithuania;2019-04-14 18:23:31;10;26 minutes;6.18;6.18
+2439195;KPJ988;Toyota C-HR;V. Grybo g. 33, Vilnius 10318, Lithuania;2019-04-11 06:20:35;Šv. Stepono g. 11, Vilnius 01139, Lithuania;2019-04-11 06:29:56;6;10 minutes;2.52;2.52
+2296558;KOK691;VW Golf;A. Smetonos g. 4, Vilnius 01115, Lithuania;2019-03-24 18:20:17;Antakalnio g. 65, Vilnius 10207, Lithuania;2019-03-24 18:54:37;18;35 minutes;7.99;7.99
+2150538;KJU270;VW Golf;Klinikų st., Vilnius 10207, Lithuania;2019-03-05 17:56:03;Raugyklos g. 23, Vilnius 01140, Lithuania;2019-03-05 18:11:34;12;16 minutes;4.68;1.57
+1992645;KDT288;;Kauno g. 3A, Vilnius 01138, Lithuania;2019-02-11 20:33:16;Kauno g. 3A, Vilnius 01138, Lithuania;2019-02-11 20:33:23;0;1 minute;0;0.00
+1415438;KBA572;VW Golf;Algirdo g. 71, Vilnius 03209, Lithuania;2018-11-20 19:50:47;Algirdo g. 71, Vilnius 03209, Lithuania;2018-11-20 19:51:05;0;1 minute;0;0.00
+1415435;KBA572;VW Golf;Algirdo g. 71, Vilnius 03209, Lithuania;2018-11-20 19:50:22;Algirdo g. 71, Vilnius 03209, Lithuania;2018-11-20 19:50:35;0;1 minute;0;0.00
+1415383;KBA572;VW Golf;Algirdo g. 71, Vilnius 03209, Lithuania;2018-11-20 19:49:35;Algirdo g. 71, Vilnius 03209, Lithuania;2018-11-20 19:50:04;0;1 minute;0;0.00
+1184082;KNG526;VW Polo;Stotis, Vilnius 03211, Lithuania;2018-10-19 21:02:18;Stotis, Vilnius 03211, Lithuania;2018-10-19 21:02:37;0;1 minute;0;0.00
+1151682;KJP068;VW Golf;Unnamed Road, Vilnius 02188, Lithuania;2018-10-15 23:13:46;Unnamed Road, Vilnius 02188, Lithuania;2018-10-15 23:14:05;0;1 minute;0;0.00
+1064724;KNV214;VW Golf;Rotušės a. 28, Vilnius 01130, Lithuania;2018-10-04 20:34:07;Rotušės a. 28, Vilnius 01130, Lithuania;2018-10-04 20:34:26;0;1 minute;0;0.00
+1059054;JHK754;;Stotis, Vilnius 02100, Lithuania;2018-10-04 08:18:28;Stotis, Vilnius 02100, Lithuania;2018-10-04 08:18:38;0;1 minute;0;0.00
+999350;KJU265;VW Golf;Šv. Stepono g. 9, Vilnius 01139, Lithuania;2018-09-26 13:13:41;Šv. Stepono g. 9, Vilnius 01139, Lithuania;2018-09-26 13:13:49;0;1 minute;0;0.00
+984830;KMA243;VW Polo;V. Grybo g. 33, Vilnius 10318, Lithuania;2018-09-24 14:19:04;V. Grybo g. 33, Vilnius 10318, Lithuania;2018-09-24 14:19:09;0;1 minute;0;0.00
+897393;KNV175;VW Golf;A. Gustaičio g. 1, Vilnius 02188, Lithuania;2018-09-13 06:16:21;A. Gustaičio g. 1, Vilnius 02188, Lithuania;2018-09-13 06:17:13;0;1 minute;0;0.00
+891863;KJU270;VW Golf;Rodūnios kl. 2, Vilnius 02188, Lithuania;2018-09-12 12:03:11;Rodūnios kl. 2, Vilnius 02188, Lithuania;2018-09-12 12:03:51;0;1 minute;0;0.00
+875410;JHU100;;Šaltkalvių g. 2, Vilnius 02170, Lithuania;2018-09-10 08:05:49;Šaltkalvių g. 2, Vilnius 02170, Lithuania;2018-09-10 08:06:48;0;1 minute;0;0.00
+852598;KRU856;;A. Gustaičio g. 1, Vilnius 02188, Lithuania;2018-09-07 06:15:55;A. Gustaičio g. 1, Vilnius 02188, Lithuania;2018-09-07 06:16:08;0;1 minute;0;0.00
+848062;KNV211;VW Golf;Šv. Stepono g. 27, Vilnius 01311, Lithuania;2018-09-06 15:27:19;Šv. Stepono g. 27, Vilnius 01311, Lithuania;2018-09-06 15:27:31;0;1 minute;0;0.00
+844937;KMG408;VW Golf;Rodūnios kl. 2, Vilnius 02188, Lithuania;2018-09-06 07:41:45;Rodūnios kl. 2, Vilnius 02188, Lithuania;2018-09-06 07:42:24;0;1 minute;0;0.00
+844507;KNV199;VW Golf;F. Vaitkaus g., Vilnius 02188, Lithuania;2018-09-06 06:17:16;F. Vaitkaus g., Vilnius 02188, Lithuania;2018-09-06 06:17:31;0;1 minute;0;0.00
+839547;KBA588;VW Golf;Raugyklos g. 1, Vilnius 01140, Lithuania;2018-09-05 13:01:33;Raugyklos g. 1, Vilnius 01140, Lithuania;2018-09-05 13:01:39;0;1 minute;0;0.00
+838562;KMA241;VW Golf;A. Gustaičio g. 1, Vilnius 02188, Lithuania;2018-09-05 10:39:08;A. Gustaičio g. 1, Vilnius 02188, Lithuania;2018-09-05 10:39:22;0;1 minute;0;0.00
+838326;KBA580;VW Golf;A. Gustaičio g. 1, Vilnius 02188, Lithuania;2018-09-05 10:03:15;A. Gustaičio g. 1, Vilnius 02188, Lithuania;2018-09-05 10:03:51;0;1 minute;0;0.00
+830952;KMF449;VW Golf;A. Gustaičio g. 1, Vilnius 02188, Lithuania;2018-09-04 11:00:49;A. Gustaičio g. 1, Vilnius 02188, Lithuania;2018-09-04 11:01:02;0;1 minute;0;0.00
+830451;JHL682;VW Golf;Geležinio Vilko g. 261, Vilnius 01109, Lithuania;2018-09-04 09:27:52;Geležinio Vilko g. 261, Vilnius 01109, Lithuania;2018-09-04 09:28:43;0;1 minute;0;0.00
+752771;KBA588;VW Golf;Karmelitų g. 3, Vilnius 01306, Lithuania;2018-08-24 11:20:17;Karmelitų g. 3, Vilnius 01306, Lithuania;2018-08-24 11:20:55;0;1 minute;0;0.00
+686017;KJG794;Toyota Yaris;A. Goštauto g., Vilnius 01111, Lithuania;2018-08-14 10:51:44;A. Goštauto g., Vilnius 01111, Lithuania;2018-08-14 10:52:36;0;1 minute;0;0.00
+656603;JNG649;Mini One 5 door;M. K. Čiurlionio g. 86, Vilnius 03100, Lithuania;2018-08-09 17:08:48;M. K. Čiurlionio g. 86, Vilnius 03100, Lithuania;2018-08-09 17:08:58;0;1 minute;0;0.00
+630583;KOK636;Toyota Auris;Žirmūnų g. 12C, Vilnius 09230, Lithuania;2018-08-05 18:34:03;Žirmūnų g. 12C, Vilnius 09230, Lithuania;2018-08-05 18:34:47;0;1 minute;0;0.00
+550204;KRU857;VW Golf;Rodūnios kl. 2, Vilnius 02188, Lithuania;2018-07-24 08:05:51;Rodūnios kl. 2, Vilnius 02188, Lithuania;2018-07-24 08:06:46;0;1 minute;0;0.00
+532229;KBA549;VW Golf;T. Ševčenkos g. 1, Vilnius 03225, Lithuania;2018-07-20 22:30:19;T. Ševčenkos g. 1, Vilnius 03225, Lithuania;2018-07-20 22:30:29;0;1 minute;0;0.00
+439893;JHL683;VW Golf;V. Grybo g. 32, Vilnius 10318, Lithuania;2018-07-06 00:57:25;V. Grybo g. 32, Vilnius 10318, Lithuania;2018-07-06 00:57:41;0;1 minute;0;0.00
+433374;KBA588;VW Golf;Rodūnios kl. 2, Vilnius 02188, Lithuania;2018-07-05 07:15:14;Rodūnios kl. 2, Vilnius 02188, Lithuania;2018-07-05 07:15:56;0;1 minute;0;0.00
+430824;KBA588;VW Golf;Bistryčios g. 3, Vilnius 10318, Lithuania;2018-07-04 18:22:35;Bistryčios g. 3, Vilnius 10318, Lithuania;2018-07-04 18:22:41;0;1 minute;0;0.00
+430439;KBA588;VW Golf;Sodų g. 22, Vilnius 03211, Lithuania;2018-07-04 17:41:39;Sodų g. 22, Vilnius 03211, Lithuania;2018-07-04 17:41:46;0;1 minute;0;0.00
+415777;JHL670;VW Golf;Stoties g. 22, Vilnius 02100, Lithuania;2018-07-02 13:31:06;Stoties g. 22, Vilnius 02100, Lithuania;2018-07-02 13:31:14;0;1 minute;0;0.00
+396536;JJB748;Toyota Yaris;Savanorių pr. 178, Vilnius 03154, Lithuania;2018-06-29 09:30:47;Savanorių pr. 178, Vilnius 03154, Lithuania;2018-06-29 09:30:58;0;1 minute;0;0.00
+353206;KJP072;VW Golf;V. Grybo g. 19, Vilnius 10318, Lithuania;2018-06-22 13:58:18;V. Grybo g. 19, Vilnius 10318, Lithuania;2018-06-22 13:58:37;0;1 minute;0;0.00
+353184;KJP072;VW Golf;V. Grybo g. 19, Vilnius 10318, Lithuania;2018-06-22 13:54:46;V. Grybo g. 19, Vilnius 10318, Lithuania;2018-06-22 13:54:58;0;1 minute;0;0.00
+353174;KJP072;VW Golf;V. Grybo g. 19, Vilnius 10318, Lithuania;2018-06-22 13:54:09;V. Grybo g. 19, Vilnius 10318, Lithuania;2018-06-22 13:54:18;0;1 minute;0;0.00
+353171;KJP072;VW Golf;V. Grybo g. 19, Vilnius 10318, Lithuania;2018-06-22 13:53:40;V. Grybo g. 19, Vilnius 10318, Lithuania;2018-06-22 13:53:55;0;1 minute;0;0.00
+353139;KJP072;VW Golf;V. Grybo g. 19, Vilnius 10318, Lithuania;2018-06-22 13:53:06;V. Grybo g. 19, Vilnius 10318, Lithuania;2018-06-22 13:53:20;0;1 minute;0;0.00
+340144;KTE905;Toyota Yaris;Bistryčios g. 9, Vilnius 10320, Lithuania;2018-06-20 17:52:14;Bistryčios g. 9, Vilnius 10320, Lithuania;2018-06-20 17:52:22;0;1 minute;0;0.00
+339165;KET360;Mini One 5 door;Kauno g. 1A, Vilnius 01138, Lithuania;2018-06-20 15:26:19;Kauno g. 1A, Vilnius 01138, Lithuania;2018-06-20 15:26:26;0;1 minute;0;0.00
+335819;KJG793;Toyota Yaris;Šv. Stepono g. 11, Vilnius 01139, Lithuania;2018-06-20 00:25:55;Šv. Stepono g. 11, Vilnius 01139, Lithuania;2018-06-20 00:26:01;0;1 minute;0;0.00
+313304;JHL675;VW Golf;Šilo g. 7, Vilnius 10322, Lithuania;2018-06-16 12:19:27;Šilo g. 7, Vilnius 10322, Lithuania;2018-06-16 12:19:40;0;1 minute;0;0.00
+305395;KMS374;Toyota Yaris;Lakūnų g. 6, Vilnius 09108, Lithuania;2018-06-15 11:11:35;Lakūnų g. 6, Vilnius 09108, Lithuania;2018-06-15 11:11:48;0;1 minute;0;0.00
+297680;KBA588;VW Golf;L. Sapiegos g. 5, Vilnius 10312, Lithuania;2018-06-14 09:57:28;L. Sapiegos g. 5, Vilnius 10312, Lithuania;2018-06-14 09:57:41;0;1 minute;0;0.00
+278867;KBA588;VW Golf;Žvejų g. 2, Vilnius 09310, Lithuania;2018-06-11 13:56:57;Žvejų g. 2, Vilnius 09310, Lithuania;2018-06-11 13:57:41;0;1 minute;0;0.00
+261956;KJH639;Toyota Yaris;Bistryčios g. 24, Vilnius 10321, Lithuania;2018-06-08 18:01:08;Bistryčios g. 24, Vilnius 10321, Lithuania;2018-06-08 18:01:14;0;1 minute;0;0.00
+238881;KBA560;VW Golf;T. Ševčenkos g. 9, Vilnius 03223, Lithuania;2018-06-04 22:58:39;T. Ševčenkos g. 9, Vilnius 03223, Lithuania;2018-06-04 22:58:52;0;1 minute;0;0.00
+224639;JHL742;VW Golf;S. Stanevičiaus g. 4, Vilnius 07129, Lithuania;2018-06-02 07:39:35;S. Stanevičiaus g. 4, Vilnius 07129, Lithuania;2018-06-02 07:40:30;0;1 minute;0;0.00
+224592;JHL742;VW Golf;S. Stanevičiaus g. 4, Vilnius 07129, Lithuania;2018-06-02 07:37:44;S. Stanevičiaus g. 4, Vilnius 07129, Lithuania;2018-06-02 07:37:49;0;1 minute;0;0.00
+210364;JNF305;;Blindžių g. 7, Vilnius 08111, Lithuania;2018-05-31 00:31:00;Blindžių g. 7, Vilnius 08111, Lithuania;2018-05-31 00:31:08;0;1 minute;0;0.00
+207829;KET331;Mini One 5 door;Antakalnio g. 56A, Vilnius 10303, Lithuania;2018-05-30 16:18:55;Antakalnio g. 56A, Vilnius 10303, Lithuania;2018-05-30 16:19:13;0;1 minute;0;0.00
+120654;KET344;Mini One 5 door;Kedrų g. 4, Vilnius 03116, Lithuania;2018-05-15 10:29:44;Kedrų g. 4, Vilnius 03116, Lithuania;2018-05-15 10:30:36;0;1 minute;0;0.00
+115408;KBM104;Toyota Yaris;Pelesos g. 11, Vilnius 02114, Lithuania;2018-05-14 12:03:46;Pelesos g. 11, Vilnius 02114, Lithuania;2018-05-14 12:04:19;0;1 minute;0;0.00
+112523;KET354;Mini One 5 door;Ozo g. 25, Vilnius 08217, Lithuania;2018-05-13 19:28:53;Ozo g. 25, Vilnius 08217, Lithuania;2018-05-13 19:29:02;0;1 minute;0;0.00
+112038;KBM087;Toyota Yaris;V. Grybo g. 33, Vilnius 10318, Lithuania;2018-05-13 17:44:50;V. Grybo g. 33, Vilnius 10318, Lithuania;2018-05-13 17:45:16;0;1 minute;0;0.00
+106167;JSO947;;A. J. Povilaičio g. 14, Vilnius 04338, Lithuania;2018-05-12 12:50:13;A. J. Povilaičio g. 14, Vilnius 04338, Lithuania;2018-05-12 12:50:22;0;1 minute;0;0.00
